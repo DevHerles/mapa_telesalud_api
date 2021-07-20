@@ -1,0 +1,5539 @@
+{
+  "Data": [
+    {
+      "IdDepartamento": "01",
+      "IdProvincia": "01",
+      "IdDistrito": "01",
+      "Total": 10,
+      "IdLocal": 0,
+      "Latitud": -6.247743,
+      "Longitud": -77.85648801
+    },
+    {
+      "IdDepartamento": "01",
+      "IdProvincia": "02",
+      "IdDistrito": "01",
+      "Total": 4,
+      "IdLocal": 0,
+      "Latitud": -5.58091274,
+      "Longitud": -78.52098274
+    },
+    {
+      "IdDepartamento": "01",
+      "IdProvincia": "02",
+      "IdDistrito": "02",
+      "Total": 3,
+      "IdLocal": 0,
+      "Latitud": -5.38043115,
+      "Longitud": -78.44833738
+    },
+    {
+      "IdDepartamento": "01",
+      "IdProvincia": "02",
+      "IdDistrito": "03",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -5.6477049,
+      "Longitud": -78.39975671
+    },
+    {
+      "IdDepartamento": "01",
+      "IdProvincia": "02",
+      "IdDistrito": "04",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -5.62263826,
+      "Longitud": -78.47396968
+    },
+    {
+      "IdDepartamento": "01",
+      "IdProvincia": "02",
+      "IdDistrito": "05",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -4.99134043,
+      "Longitud": -78.38958734
+    },
+    {
+      "IdDepartamento": "01",
+      "IdProvincia": "02",
+      "IdDistrito": "06",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -5.59197827,
+      "Longitud": -78.44540616
+    },
+    {
+      "IdDepartamento": "01",
+      "IdProvincia": "04",
+      "IdDistrito": "01",
+      "Total": 6,
+      "IdLocal": 0,
+      "Latitud": -4.84542432,
+      "Longitud": -77.93037318
+    },
+    {
+      "IdDepartamento": "01",
+      "IdProvincia": "04",
+      "IdDistrito": "02",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -4.16853813,
+      "Longitud": -78.33589329
+    },
+    {
+      "IdDepartamento": "01",
+      "IdProvincia": "04",
+      "IdDistrito": "03",
+      "Total": 4,
+      "IdLocal": 0,
+      "Latitud": -3.81344973,
+      "Longitud": -77.88811454
+    },
+    {
+      "IdDepartamento": "01",
+      "IdProvincia": "05",
+      "IdDistrito": "01",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -6.11360202,
+      "Longitud": -77.92396483
+    },
+    {
+      "IdDepartamento": "01",
+      "IdProvincia": "05",
+      "IdDistrito": "23",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -6.156466,
+      "Longitud": -77.98113463
+    },
+    {
+      "IdDepartamento": "01",
+      "IdProvincia": "06",
+      "IdDistrito": "01",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -6.3880855,
+      "Longitud": -77.43795555
+    },
+    {
+      "IdDepartamento": "01",
+      "IdProvincia": "07",
+      "IdDistrito": "01",
+      "Total": 10,
+      "IdLocal": 0,
+      "Latitud": -5.83884193,
+      "Longitud": -78.43999983
+    },
+    {
+      "IdDepartamento": "01",
+      "IdProvincia": "07",
+      "IdDistrito": "02",
+      "Total": 5,
+      "IdLocal": 0,
+      "Latitud": -5.61431278,
+      "Longitud": -78.17477938
+    },
+    {
+      "IdDepartamento": "01",
+      "IdProvincia": "07",
+      "IdDistrito": "03",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -5.9167249,
+      "Longitud": -78.60770745
+    },
+    {
+      "IdDepartamento": "01",
+      "IdProvincia": "07",
+      "IdDistrito": "04",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -5.71731096,
+      "Longitud": -78.61124594
+    },
+    {
+      "IdDepartamento": "01",
+      "IdProvincia": "07",
+      "IdDistrito": "05",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -5.95246282,
+      "Longitud": -78.23495795
+    },
+    {
+      "IdDepartamento": "01",
+      "IdProvincia": "07",
+      "IdDistrito": "06",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -6.063472,
+      "Longitud": -78.41067329
+    },
+    {
+      "IdDepartamento": "01",
+      "IdProvincia": "07",
+      "IdDistrito": "07",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -6.01199768,
+      "Longitud": -78.52336764
+    },
+    {
+      "IdDepartamento": "02",
+      "IdProvincia": "01",
+      "IdDistrito": "01",
+      "Total": 6,
+      "IdLocal": 0,
+      "Latitud": -9.57041765,
+      "Longitud": -77.47153566
+    },
+    {
+      "IdDepartamento": "02",
+      "IdProvincia": "01",
+      "IdDistrito": "05",
+      "Total": 6,
+      "IdLocal": 0,
+      "Latitud": -9.47135021,
+      "Longitud": -77.48470995
+    },
+    {
+      "IdDepartamento": "02",
+      "IdProvincia": "02",
+      "IdDistrito": "01",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -9.80042156,
+      "Longitud": -77.56762947
+    },
+    {
+      "IdDepartamento": "02",
+      "IdProvincia": "05",
+      "IdDistrito": "01",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -10.21913565,
+      "Longitud": -77.1470998
+    },
+    {
+      "IdDepartamento": "02",
+      "IdProvincia": "06",
+      "IdDistrito": "01",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -9.32688448,
+      "Longitud": -77.69698296
+    },
+    {
+      "IdDepartamento": "02",
+      "IdProvincia": "07",
+      "IdDistrito": "01",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -9.09716346,
+      "Longitud": -77.29096154
+    },
+    {
+      "IdDepartamento": "02",
+      "IdProvincia": "18",
+      "IdDistrito": "01",
+      "Total": 3,
+      "IdLocal": 0,
+      "Latitud": -8.87763139,
+      "Longitud": -78.4011409
+    },
+    {
+      "IdDepartamento": "02",
+      "IdProvincia": "18",
+      "IdDistrito": "09",
+      "Total": 6,
+      "IdLocal": 0,
+      "Latitud": -9.10010501,
+      "Longitud": -78.43613995
+    },
+    {
+      "IdDepartamento": "03",
+      "IdProvincia": "01",
+      "IdDistrito": "01",
+      "Total": 6,
+      "IdLocal": 0,
+      "Latitud": -13.66256787,
+      "Longitud": -72.87597398
+    },
+    {
+      "IdDepartamento": "03",
+      "IdProvincia": "01",
+      "IdDistrito": "09",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -13.57813682,
+      "Longitud": -72.8719639
+    },
+    {
+      "IdDepartamento": "03",
+      "IdProvincia": "02",
+      "IdDistrito": "01",
+      "Total": 6,
+      "IdLocal": 0,
+      "Latitud": -13.7488109,
+      "Longitud": -73.40359058
+    },
+    {
+      "IdDepartamento": "03",
+      "IdProvincia": "02",
+      "IdDistrito": "13",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -13.71663249,
+      "Longitud": -73.27405509
+    },
+    {
+      "IdDepartamento": "03",
+      "IdProvincia": "02",
+      "IdDistrito": "16",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -13.62750508,
+      "Longitud": -73.45302832
+    },
+    {
+      "IdDepartamento": "03",
+      "IdProvincia": "06",
+      "IdDistrito": "04",
+      "Total": 8,
+      "IdLocal": 0,
+      "Latitud": -13.31950625,
+      "Longitud": -73.73121177
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "01",
+      "IdDistrito": "01",
+      "Total": 5,
+      "IdLocal": 0,
+      "Latitud": -16.4066583,
+      "Longitud": -71.53845996
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "01",
+      "IdDistrito": "02",
+      "Total": 3,
+      "IdLocal": 0,
+      "Latitud": -16.33096163,
+      "Longitud": -71.48585771
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "01",
+      "IdDistrito": "03",
+      "Total": 7,
+      "IdLocal": 0,
+      "Latitud": -16.22685456,
+      "Longitud": -71.44752679
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "01",
+      "IdDistrito": "04",
+      "Total": 9,
+      "IdLocal": 0,
+      "Latitud": -16.30446681,
+      "Longitud": -71.5765988
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "01",
+      "IdDistrito": "05",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -16.45774176,
+      "Longitud": -71.38285968
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "01",
+      "IdDistrito": "06",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -16.37562733,
+      "Longitud": -71.35861433
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "01",
+      "IdDistrito": "07",
+      "Total": 5,
+      "IdLocal": 0,
+      "Latitud": -16.45870244,
+      "Longitud": -71.56261293
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "01",
+      "IdDistrito": "08",
+      "Total": 4,
+      "IdLocal": 0,
+      "Latitud": -16.58843967,
+      "Longitud": -71.79579954
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "01",
+      "IdDistrito": "09",
+      "Total": 5,
+      "IdLocal": 0,
+      "Latitud": -16.37538466,
+      "Longitud": -71.46287758
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "01",
+      "IdDistrito": "10",
+      "Total": 5,
+      "IdLocal": 0,
+      "Latitud": -16.3572201,
+      "Longitud": -71.46971323
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "01",
+      "IdDistrito": "11",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -16.50407948,
+      "Longitud": -71.47384539
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "01",
+      "IdDistrito": "12",
+      "Total": 12,
+      "IdLocal": 0,
+      "Latitud": -16.42005016,
+      "Longitud": -71.47798188
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "01",
+      "IdDistrito": "13",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -16.49888709,
+      "Longitud": -71.33217586
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "01",
+      "IdDistrito": "14",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -16.641987,
+      "Longitud": -71.3574227
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "01",
+      "IdDistrito": "15",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -16.54417531,
+      "Longitud": -71.44321303
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "01",
+      "IdDistrito": "16",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -16.44826245,
+      "Longitud": -71.46023122
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "01",
+      "IdDistrito": "17",
+      "Total": 4,
+      "IdLocal": 0,
+      "Latitud": -16.42116882,
+      "Longitud": -71.57624543
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "01",
+      "IdDistrito": "19",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -16.19824331,
+      "Longitud": -71.0981003
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "01",
+      "IdDistrito": "21",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -16.52282737,
+      "Longitud": -72.14412114
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "01",
+      "IdDistrito": "22",
+      "Total": 5,
+      "IdLocal": 0,
+      "Latitud": -16.47364201,
+      "Longitud": -71.53467983
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "01",
+      "IdDistrito": "23",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -16.46345039,
+      "Longitud": -71.59898764
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "01",
+      "IdDistrito": "24",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -16.46093054,
+      "Longitud": -71.69053926
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "01",
+      "IdDistrito": "25",
+      "Total": 3,
+      "IdLocal": 0,
+      "Latitud": -16.48931212,
+      "Longitud": -71.98780112
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "01",
+      "IdDistrito": "26",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -16.40104335,
+      "Longitud": -71.55814142
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "01",
+      "IdDistrito": "27",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -16.6135208,
+      "Longitud": -71.54987499
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "01",
+      "IdDistrito": "28",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -16.13094253,
+      "Longitud": -71.60634537
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "01",
+      "IdDistrito": "29",
+      "Total": 4,
+      "IdLocal": 0,
+      "Latitud": -16.42724882,
+      "Longitud": -71.52441967
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "02",
+      "IdDistrito": "01",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -16.63091405,
+      "Longitud": -72.71287959
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "02",
+      "IdDistrito": "02",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -16.59649026,
+      "Longitud": -72.73660621
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "02",
+      "IdDistrito": "03",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -16.10363458,
+      "Longitud": -73.11301529
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "02",
+      "IdDistrito": "04",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -16.4556299,
+      "Longitud": -72.83225799
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "02",
+      "IdDistrito": "05",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -16.48872365,
+      "Longitud": -72.69582108
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "02",
+      "IdDistrito": "06",
+      "Total": 3,
+      "IdLocal": 0,
+      "Latitud": -16.33751047,
+      "Longitud": -73.04493654
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "02",
+      "IdDistrito": "08",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -16.60133892,
+      "Longitud": -72.65244771
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "03",
+      "IdDistrito": "01",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -15.82917855,
+      "Longitud": -73.33181787
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "03",
+      "IdDistrito": "02",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -15.34167477,
+      "Longitud": -74.55824308
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "03",
+      "IdDistrito": "03",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -16.05303278,
+      "Longitud": -73.53827764
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "03",
+      "IdDistrito": "04",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -15.68920087,
+      "Longitud": -74.30367953
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "03",
+      "IdDistrito": "05",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -15.37541936,
+      "Longitud": -74.76157588
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "03",
+      "IdDistrito": "06",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -15.54064725,
+      "Longitud": -73.43175804
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "03",
+      "IdDistrito": "07",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -15.76950097,
+      "Longitud": -74.18974299
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "03",
+      "IdDistrito": "08",
+      "Total": 5,
+      "IdLocal": 0,
+      "Latitud": -15.82485648,
+      "Longitud": -73.94516508
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "03",
+      "IdDistrito": "10",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -15.44910156,
+      "Longitud": -74.39816473
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "03",
+      "IdDistrito": "11",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -15.38676192,
+      "Longitud": -74.9351417
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "03",
+      "IdDistrito": "12",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -15.56736084,
+      "Longitud": -73.73038002
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "03",
+      "IdDistrito": "13",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -15.63352175,
+      "Longitud": -74.42876842
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "04",
+      "IdDistrito": "01",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -16.02231825,
+      "Longitud": -72.5111523
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "04",
+      "IdDistrito": "02",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -15.48504657,
+      "Longitud": -72.37681761
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "04",
+      "IdDistrito": "06",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -15.41413783,
+      "Longitud": -72.06875483
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "04",
+      "IdDistrito": "07",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -16.01240118,
+      "Longitud": -72.36818693
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "04",
+      "IdDistrito": "08",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -15.60113066,
+      "Longitud": -72.47175924
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "04",
+      "IdDistrito": "09",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -15.11609845,
+      "Longitud": -72.24849582
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "04",
+      "IdDistrito": "10",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -15.67077551,
+      "Longitud": -72.61905898
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "04",
+      "IdDistrito": "11",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -15.75076776,
+      "Longitud": -72.49968363
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "04",
+      "IdDistrito": "12",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -15.77850306,
+      "Longitud": -72.36165998
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "04",
+      "IdDistrito": "13",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -16.26159127,
+      "Longitud": -72.52557265
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "04",
+      "IdDistrito": "14",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -15.61637353,
+      "Longitud": -72.56690244
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "05",
+      "IdDistrito": "01",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -15.67738531,
+      "Longitud": -71.58573533
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "05",
+      "IdDistrito": "02",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -15.81642174,
+      "Longitud": -71.73609604
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "05",
+      "IdDistrito": "06",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -15.59132432,
+      "Longitud": -71.64122669
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "05",
+      "IdDistrito": "07",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -15.79625036,
+      "Longitud": -72.16048332
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "05",
+      "IdDistrito": "08",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -16.00643105,
+      "Longitud": -71.82796632
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "05",
+      "IdDistrito": "09",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -15.58619166,
+      "Longitud": -71.70530828
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "05",
+      "IdDistrito": "10",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -15.47994757,
+      "Longitud": -71.76044553
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "05",
+      "IdDistrito": "11",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -15.96762286,
+      "Longitud": -72.01844538
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "05",
+      "IdDistrito": "12",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -15.73131121,
+      "Longitud": -71.79727447
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "05",
+      "IdDistrito": "13",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -15.54134002,
+      "Longitud": -71.85744275
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "05",
+      "IdDistrito": "14",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -15.83091825,
+      "Longitud": -71.09748796
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "05",
+      "IdDistrito": "15",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -15.41227732,
+      "Longitud": -71.52349479
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "05",
+      "IdDistrito": "16",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -15.42682914,
+      "Longitud": -71.93601226
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "05",
+      "IdDistrito": "17",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -15.21269991,
+      "Longitud": -71.39226558
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "05",
+      "IdDistrito": "18",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -15.48306675,
+      "Longitud": -71.59761352
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "05",
+      "IdDistrito": "19",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -15.80129207,
+      "Longitud": -71.44244761
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "05",
+      "IdDistrito": "20",
+      "Total": 4,
+      "IdLocal": 0,
+      "Latitud": -16.35285082,
+      "Longitud": -72.29636987
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "06",
+      "IdDistrito": "01",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -16.11732555,
+      "Longitud": -72.81162833
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "06",
+      "IdDistrito": "04",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -15.53451185,
+      "Longitud": -72.94573812
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "06",
+      "IdDistrito": "07",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -15.40616713,
+      "Longitud": -72.69744348
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "06",
+      "IdDistrito": "08",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -15.72746752,
+      "Longitud": -73.01603298
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "07",
+      "IdDistrito": "01",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -16.9031593,
+      "Longitud": -71.95897808
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "07",
+      "IdDistrito": "02",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -16.92884428,
+      "Longitud": -71.59943815
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "07",
+      "IdDistrito": "03",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -17.09800285,
+      "Longitud": -71.82941834
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "07",
+      "IdDistrito": "04",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -16.87633462,
+      "Longitud": -72.10223262
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "07",
+      "IdDistrito": "05",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -17.03573494,
+      "Longitud": -71.87863529
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "07",
+      "IdDistrito": "06",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -17.16003666,
+      "Longitud": -71.55072322
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "08",
+      "IdDistrito": "01",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -15.27631582,
+      "Longitud": -72.86145985
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "08",
+      "IdDistrito": "02",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -15.16748456,
+      "Longitud": -72.71186705
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "08",
+      "IdDistrito": "03",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -15.19137994,
+      "Longitud": -73.04858867
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "08",
+      "IdDistrito": "04",
+      "Total": 3,
+      "IdLocal": 0,
+      "Latitud": -14.87496186,
+      "Longitud": -72.76148065
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "08",
+      "IdDistrito": "05",
+      "Total": 3,
+      "IdLocal": 0,
+      "Latitud": -14.9895726,
+      "Longitud": -72.93022055
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "08",
+      "IdDistrito": "06",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -14.93896029,
+      "Longitud": -72.54718176
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "08",
+      "IdDistrito": "07",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -15.30480551,
+      "Longitud": -73.06543217
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "08",
+      "IdDistrito": "08",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -15.31827251,
+      "Longitud": -73.23417261
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "08",
+      "IdDistrito": "09",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -15.40420821,
+      "Longitud": -73.17264647
+    },
+    {
+      "IdDepartamento": "04",
+      "IdProvincia": "08",
+      "IdDistrito": "11",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -15.40476234,
+      "Longitud": -73.01612325
+    },
+    {
+      "IdDepartamento": "05",
+      "IdProvincia": "01",
+      "IdDistrito": "01",
+      "Total": 4,
+      "IdLocal": 0,
+      "Latitud": -13.13456022,
+      "Longitud": -74.25209188
+    },
+    {
+      "IdDepartamento": "05",
+      "IdProvincia": "01",
+      "IdDistrito": "04",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -13.20408267,
+      "Longitud": -74.23559582
+    },
+    {
+      "IdDepartamento": "05",
+      "IdProvincia": "01",
+      "IdDistrito": "15",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -13.12188979,
+      "Longitud": -74.20856388
+    },
+    {
+      "IdDepartamento": "05",
+      "IdProvincia": "01",
+      "IdDistrito": "16",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -13.15460091,
+      "Longitud": -74.20021839
+    },
+    {
+      "IdDepartamento": "05",
+      "IdProvincia": "02",
+      "IdDistrito": "01",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -13.59973513,
+      "Longitud": -74.11007268
+    },
+    {
+      "IdDepartamento": "05",
+      "IdProvincia": "03",
+      "IdDistrito": "01",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -14.04484165,
+      "Longitud": -74.54585836
+    },
+    {
+      "IdDepartamento": "05",
+      "IdProvincia": "04",
+      "IdDistrito": "01",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -12.91203364,
+      "Longitud": -74.21145372
+    },
+    {
+      "IdDepartamento": "05",
+      "IdProvincia": "05",
+      "IdDistrito": "01",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -13.03606498,
+      "Longitud": -73.94265003
+    },
+    {
+      "IdDepartamento": "05",
+      "IdProvincia": "06",
+      "IdDistrito": "01",
+      "Total": 3,
+      "IdLocal": 0,
+      "Latitud": -14.67630193,
+      "Longitud": -74.01628204
+    },
+    {
+      "IdDepartamento": "05",
+      "IdProvincia": "09",
+      "IdDistrito": "01",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -13.99481661,
+      "Longitud": -73.80482786
+    },
+    {
+      "IdDepartamento": "05",
+      "IdProvincia": "10",
+      "IdDistrito": "01",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -13.80465858,
+      "Longitud": -74.08984067
+    },
+    {
+      "IdDepartamento": "05",
+      "IdProvincia": "11",
+      "IdDistrito": "01",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -13.65570144,
+      "Longitud": -73.89632106
+    },
+    {
+      "IdDepartamento": "06",
+      "IdProvincia": "02",
+      "IdDistrito": "01",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -7.63145065,
+      "Longitud": -78.03214665
+    },
+    {
+      "IdDepartamento": "06",
+      "IdProvincia": "03",
+      "IdDistrito": "01",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -6.77494719,
+      "Longitud": -78.11727748
+    },
+    {
+      "IdDepartamento": "06",
+      "IdProvincia": "04",
+      "IdDistrito": "01",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -6.55998014,
+      "Longitud": -78.64275025
+    },
+    {
+      "IdDepartamento": "06",
+      "IdProvincia": "06",
+      "IdDistrito": "01",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -6.37352925,
+      "Longitud": -78.85309102
+    },
+    {
+      "IdDepartamento": "06",
+      "IdProvincia": "08",
+      "IdDistrito": "01",
+      "Total": 10,
+      "IdLocal": 0,
+      "Latitud": -5.77018429,
+      "Longitud": -78.85255311
+    },
+    {
+      "IdDepartamento": "07",
+      "IdProvincia": "01",
+      "IdDistrito": "01",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -12.02578651,
+      "Longitud": -77.11813011
+    },
+    {
+      "IdDepartamento": "07",
+      "IdProvincia": "01",
+      "IdDistrito": "02",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -12.05999971,
+      "Longitud": -77.10994618
+    },
+    {
+      "IdDepartamento": "07",
+      "IdProvincia": "01",
+      "IdDistrito": "03",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -12.04282337,
+      "Longitud": -77.09049444
+    },
+    {
+      "IdDepartamento": "07",
+      "IdProvincia": "01",
+      "IdDistrito": "06",
+      "Total": 3,
+      "IdLocal": 0,
+      "Latitud": -11.87915492,
+      "Longitud": -77.13087433
+    },
+    {
+      "IdDepartamento": "08",
+      "IdProvincia": "01",
+      "IdDistrito": "01",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -13.49253992,
+      "Longitud": -71.98762279
+    },
+    {
+      "IdDepartamento": "08",
+      "IdProvincia": "01",
+      "IdDistrito": "04",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -13.55979939,
+      "Longitud": -71.89212995
+    },
+    {
+      "IdDepartamento": "08",
+      "IdProvincia": "01",
+      "IdDistrito": "05",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -13.56145144,
+      "Longitud": -71.94728358
+    },
+    {
+      "IdDepartamento": "08",
+      "IdProvincia": "01",
+      "IdDistrito": "06",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -13.56413276,
+      "Longitud": -71.99781517
+    },
+    {
+      "IdDepartamento": "08",
+      "IdProvincia": "01",
+      "IdDistrito": "08",
+      "Total": 3,
+      "IdLocal": 0,
+      "Latitud": -13.53168205,
+      "Longitud": -71.95067644
+    },
+    {
+      "IdDepartamento": "08",
+      "IdProvincia": "02",
+      "IdDistrito": "01",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -13.89315131,
+      "Longitud": -71.67247754
+    },
+    {
+      "IdDepartamento": "08",
+      "IdProvincia": "02",
+      "IdDistrito": "05",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -14.0536365,
+      "Longitud": -71.62389835
+    },
+    {
+      "IdDepartamento": "08",
+      "IdProvincia": "06",
+      "IdDistrito": "01",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -14.26716501,
+      "Longitud": -71.10878129
+    },
+    {
+      "IdDepartamento": "08",
+      "IdProvincia": "06",
+      "IdDistrito": "02",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -13.99810883,
+      "Longitud": -70.98676567
+    },
+    {
+      "IdDepartamento": "08",
+      "IdProvincia": "06",
+      "IdDistrito": "03",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -14.07060971,
+      "Longitud": -71.38581376
+    },
+    {
+      "IdDepartamento": "08",
+      "IdProvincia": "06",
+      "IdDistrito": "04",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -14.37363301,
+      "Longitud": -71.09563118
+    },
+    {
+      "IdDepartamento": "08",
+      "IdProvincia": "10",
+      "IdDistrito": "01",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -13.72668588,
+      "Longitud": -71.8557018
+    },
+    {
+      "IdDepartamento": "08",
+      "IdProvincia": "10",
+      "IdDistrito": "02",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -13.98849372,
+      "Longitud": -71.86264667
+    },
+    {
+      "IdDepartamento": "08",
+      "IdProvincia": "10",
+      "IdDistrito": "05",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -13.69880938,
+      "Longitud": -72.07921289
+    },
+    {
+      "IdDepartamento": "08",
+      "IdProvincia": "10",
+      "IdDistrito": "09",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -13.65091765,
+      "Longitud": -71.91259039
+    },
+    {
+      "IdDepartamento": "08",
+      "IdProvincia": "11",
+      "IdDistrito": "01",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -13.30137319,
+      "Longitud": -71.46406073
+    },
+    {
+      "IdDepartamento": "08",
+      "IdProvincia": "11",
+      "IdDistrito": "03",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -13.13928181,
+      "Longitud": -71.76931073
+    },
+    {
+      "IdDepartamento": "08",
+      "IdProvincia": "11",
+      "IdDistrito": "04",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -13.40303464,
+      "Longitud": -71.65422693
+    },
+    {
+      "IdDepartamento": "08",
+      "IdProvincia": "11",
+      "IdDistrito": "05",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -13.51893534,
+      "Longitud": -71.59005223
+    },
+    {
+      "IdDepartamento": "08",
+      "IdProvincia": "12",
+      "IdDistrito": "01",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -13.69353229,
+      "Longitud": -71.59019136
+    },
+    {
+      "IdDepartamento": "08",
+      "IdProvincia": "12",
+      "IdDistrito": "05",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -13.63878814,
+      "Longitud": -71.51371367
+    },
+    {
+      "IdDepartamento": "08",
+      "IdProvincia": "12",
+      "IdDistrito": "10",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -13.68767485,
+      "Longitud": -71.26896132
+    },
+    {
+      "IdDepartamento": "08",
+      "IdProvincia": "12",
+      "IdDistrito": "11",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -13.57409035,
+      "Longitud": -71.7886512
+    },
+    {
+      "IdDepartamento": "08",
+      "IdProvincia": "12",
+      "IdDistrito": "12",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -13.80561247,
+      "Longitud": -71.53316919
+    },
+    {
+      "IdDepartamento": "09",
+      "IdProvincia": "01",
+      "IdDistrito": "01",
+      "Total": 8,
+      "IdLocal": 0,
+      "Latitud": -12.86284854,
+      "Longitud": -75.0086415
+    },
+    {
+      "IdDepartamento": "09",
+      "IdProvincia": "01",
+      "IdDistrito": "03",
+      "Total": 3,
+      "IdLocal": 0,
+      "Latitud": -12.59957651,
+      "Longitud": -74.82352812
+    },
+    {
+      "IdDepartamento": "09",
+      "IdProvincia": "01",
+      "IdDistrito": "18",
+      "Total": 3,
+      "IdLocal": 0,
+      "Latitud": -12.86110173,
+      "Longitud": -75.17700767
+    },
+    {
+      "IdDepartamento": "09",
+      "IdProvincia": "03",
+      "IdDistrito": "02",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -12.88732403,
+      "Longitud": -74.70603859
+    },
+    {
+      "IdDepartamento": "09",
+      "IdProvincia": "03",
+      "IdDistrito": "09",
+      "Total": 9,
+      "IdLocal": 0,
+      "Latitud": -13.0125173,
+      "Longitud": -74.43095385
+    },
+    {
+      "IdDepartamento": "09",
+      "IdProvincia": "03",
+      "IdDistrito": "10",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -13.06552124,
+      "Longitud": -74.4306678
+    },
+    {
+      "IdDepartamento": "09",
+      "IdProvincia": "03",
+      "IdDistrito": "11",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -13.14355399,
+      "Longitud": -74.47099157
+    },
+    {
+      "IdDepartamento": "09",
+      "IdProvincia": "04",
+      "IdDistrito": "01",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -13.15366634,
+      "Longitud": -75.29138023
+    },
+    {
+      "IdDepartamento": "09",
+      "IdProvincia": "04",
+      "IdDistrito": "02",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -13.11048477,
+      "Longitud": -75.51114858
+    },
+    {
+      "IdDepartamento": "09",
+      "IdProvincia": "04",
+      "IdDistrito": "03",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -12.95667182,
+      "Longitud": -75.44279534
+    },
+    {
+      "IdDepartamento": "09",
+      "IdProvincia": "04",
+      "IdDistrito": "04",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -13.34244798,
+      "Longitud": -75.61105444
+    },
+    {
+      "IdDepartamento": "09",
+      "IdProvincia": "04",
+      "IdDistrito": "07",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -13.21859417,
+      "Longitud": -75.4568328
+    },
+    {
+      "IdDepartamento": "09",
+      "IdProvincia": "04",
+      "IdDistrito": "09",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -13.29188754,
+      "Longitud": -75.43199343
+    },
+    {
+      "IdDepartamento": "09",
+      "IdProvincia": "04",
+      "IdDistrito": "12",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -13.12655949,
+      "Longitud": -75.62136142
+    },
+    {
+      "IdDepartamento": "09",
+      "IdProvincia": "04",
+      "IdDistrito": "13",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -13.41806436,
+      "Longitud": -75.40974361
+    },
+    {
+      "IdDepartamento": "09",
+      "IdProvincia": "07",
+      "IdDistrito": "07",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -12.0566577,
+      "Longitud": -74.54581287
+    },
+    {
+      "IdDepartamento": "09",
+      "IdProvincia": "07",
+      "IdDistrito": "09",
+      "Total": 6,
+      "IdLocal": 0,
+      "Latitud": -12.27648124,
+      "Longitud": -74.92635036
+    },
+    {
+      "IdDepartamento": "09",
+      "IdProvincia": "07",
+      "IdDistrito": "11",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -12.22156927,
+      "Longitud": -75.02625275
+    },
+    {
+      "IdDepartamento": "09",
+      "IdProvincia": "07",
+      "IdDistrito": "15",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -12.10650716,
+      "Longitud": -74.75144066
+    },
+    {
+      "IdDepartamento": "09",
+      "IdProvincia": "07",
+      "IdDistrito": "17",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -12.15072531,
+      "Longitud": -74.65237587
+    },
+    {
+      "IdDepartamento": "10",
+      "IdProvincia": "01",
+      "IdDistrito": "01",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -9.91659241,
+      "Longitud": -76.29455974
+    },
+    {
+      "IdDepartamento": "10",
+      "IdProvincia": "01",
+      "IdDistrito": "02",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -9.95024018,
+      "Longitud": -76.18822506
+    },
+    {
+      "IdDepartamento": "10",
+      "IdProvincia": "01",
+      "IdDistrito": "11",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -10.02943225,
+      "Longitud": -76.26385777
+    },
+    {
+      "IdDepartamento": "10",
+      "IdProvincia": "02",
+      "IdDistrito": "01",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -10.15013876,
+      "Longitud": -76.14117733
+    },
+    {
+      "IdDepartamento": "10",
+      "IdProvincia": "03",
+      "IdDistrito": "01",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -9.90789171,
+      "Longitud": -76.7946952
+    },
+    {
+      "IdDepartamento": "10",
+      "IdProvincia": "04",
+      "IdDistrito": "01",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -8.95863902,
+      "Longitud": -76.83929971
+    },
+    {
+      "IdDepartamento": "10",
+      "IdProvincia": "04",
+      "IdDistrito": "02",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -8.84741792,
+      "Longitud": -77.10775722
+    },
+    {
+      "IdDepartamento": "10",
+      "IdProvincia": "04",
+      "IdDistrito": "03",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -9.10704455,
+      "Longitud": -76.5950138
+    },
+    {
+      "IdDepartamento": "10",
+      "IdProvincia": "05",
+      "IdDistrito": "01",
+      "Total": 5,
+      "IdLocal": 0,
+      "Latitud": -9.61397583,
+      "Longitud": -76.90327022
+    },
+    {
+      "IdDepartamento": "10",
+      "IdProvincia": "05",
+      "IdDistrito": "02",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -9.14788829,
+      "Longitud": -76.73088314
+    },
+    {
+      "IdDepartamento": "10",
+      "IdProvincia": "05",
+      "IdDistrito": "03",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -9.43721151,
+      "Longitud": -76.7550439
+    },
+    {
+      "IdDepartamento": "10",
+      "IdProvincia": "05",
+      "IdDistrito": "04",
+      "Total": 3,
+      "IdLocal": 0,
+      "Latitud": -9.51519574,
+      "Longitud": -76.66841098
+    },
+    {
+      "IdDepartamento": "10",
+      "IdProvincia": "05",
+      "IdDistrito": "05",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -9.21658784,
+      "Longitud": -76.64438639
+    },
+    {
+      "IdDepartamento": "10",
+      "IdProvincia": "05",
+      "IdDistrito": "06",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -9.4218807,
+      "Longitud": -76.89763074
+    },
+    {
+      "IdDepartamento": "10",
+      "IdProvincia": "05",
+      "IdDistrito": "07",
+      "Total": 3,
+      "IdLocal": 0,
+      "Latitud": -9.33110709,
+      "Longitud": -76.38787762
+    },
+    {
+      "IdDepartamento": "10",
+      "IdProvincia": "05",
+      "IdDistrito": "08",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -9.44901993,
+      "Longitud": -76.83411374
+    },
+    {
+      "IdDepartamento": "10",
+      "IdProvincia": "05",
+      "IdDistrito": "09",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -9.50308383,
+      "Longitud": -76.89689958
+    },
+    {
+      "IdDepartamento": "10",
+      "IdProvincia": "05",
+      "IdDistrito": "10",
+      "Total": 4,
+      "IdLocal": 0,
+      "Latitud": -9.36276526,
+      "Longitud": -76.83571096
+    },
+    {
+      "IdDepartamento": "10",
+      "IdProvincia": "06",
+      "IdDistrito": "01",
+      "Total": 6,
+      "IdLocal": 0,
+      "Latitud": -9.15048388,
+      "Longitud": -76.15985002
+    },
+    {
+      "IdDepartamento": "10",
+      "IdProvincia": "06",
+      "IdDistrito": "02",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -9.30098424,
+      "Longitud": -75.79494695
+    },
+    {
+      "IdDepartamento": "10",
+      "IdProvincia": "06",
+      "IdDistrito": "03",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -9.13939648,
+      "Longitud": -75.87540196
+    },
+    {
+      "IdDepartamento": "10",
+      "IdProvincia": "06",
+      "IdDistrito": "04",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -9.10304343,
+      "Longitud": -76.34073356
+    },
+    {
+      "IdDepartamento": "10",
+      "IdProvincia": "06",
+      "IdDistrito": "05",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -9.24065626,
+      "Longitud": -75.95322527
+    },
+    {
+      "IdDepartamento": "10",
+      "IdProvincia": "06",
+      "IdDistrito": "06",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -9.39440038,
+      "Longitud": -76.03103562
+    },
+    {
+      "IdDepartamento": "10",
+      "IdProvincia": "07",
+      "IdDistrito": "01",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -8.60481773,
+      "Longitud": -77.17305637
+    },
+    {
+      "IdDepartamento": "10",
+      "IdProvincia": "07",
+      "IdDistrito": "02",
+      "Total": 3,
+      "IdLocal": 0,
+      "Latitud": -8.65813363,
+      "Longitud": -76.74104765
+    },
+    {
+      "IdDepartamento": "10",
+      "IdProvincia": "07",
+      "IdDistrito": "03",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -8.75386401,
+      "Longitud": -77.14425099
+    },
+    {
+      "IdDepartamento": "10",
+      "IdProvincia": "08",
+      "IdDistrito": "01",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -10.14836142,
+      "Longitud": -75.89673833
+    },
+    {
+      "IdDepartamento": "10",
+      "IdProvincia": "08",
+      "IdDistrito": "03",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -9.99639121,
+      "Longitud": -76.05807746
+    },
+    {
+      "IdDepartamento": "10",
+      "IdProvincia": "09",
+      "IdDistrito": "02",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -9.63436384,
+      "Longitud": -75.46653863
+    },
+    {
+      "IdDepartamento": "10",
+      "IdProvincia": "10",
+      "IdDistrito": "01",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -10.30130611,
+      "Longitud": -76.82879786
+    },
+    {
+      "IdDepartamento": "10",
+      "IdProvincia": "10",
+      "IdDistrito": "05",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -9.96849196,
+      "Longitud": -76.72044631
+    },
+    {
+      "IdDepartamento": "11",
+      "IdProvincia": "01",
+      "IdDistrito": "01",
+      "Total": 10,
+      "IdLocal": 0,
+      "Latitud": -14.21385646,
+      "Longitud": -75.90665637
+    },
+    {
+      "IdDepartamento": "11",
+      "IdProvincia": "01",
+      "IdDistrito": "02",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -14.01078042,
+      "Longitud": -75.67334225
+    },
+    {
+      "IdDepartamento": "11",
+      "IdProvincia": "01",
+      "IdDistrito": "03",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -14.07403205,
+      "Longitud": -75.64061226
+    },
+    {
+      "IdDepartamento": "11",
+      "IdProvincia": "01",
+      "IdDistrito": "04",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -14.48410727,
+      "Longitud": -75.78075168
+    },
+    {
+      "IdDepartamento": "11",
+      "IdProvincia": "01",
+      "IdDistrito": "05",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -14.16111917,
+      "Longitud": -75.64536717
+    },
+    {
+      "IdDepartamento": "11",
+      "IdProvincia": "01",
+      "IdDistrito": "06",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -14.05686627,
+      "Longitud": -75.70044687
+    },
+    {
+      "IdDepartamento": "11",
+      "IdProvincia": "01",
+      "IdDistrito": "07",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -14.12953112,
+      "Longitud": -75.65061614
+    },
+    {
+      "IdDepartamento": "11",
+      "IdProvincia": "01",
+      "IdDistrito": "08",
+      "Total": 3,
+      "IdLocal": 0,
+      "Latitud": -13.92176022,
+      "Longitud": -75.87577714
+    },
+    {
+      "IdDepartamento": "11",
+      "IdProvincia": "01",
+      "IdDistrito": "09",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -13.88206284,
+      "Longitud": -75.61241346
+    },
+    {
+      "IdDepartamento": "11",
+      "IdProvincia": "01",
+      "IdDistrito": "10",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -13.97354638,
+      "Longitud": -75.73313555
+    },
+    {
+      "IdDepartamento": "11",
+      "IdProvincia": "01",
+      "IdDistrito": "11",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -14.51074769,
+      "Longitud": -75.51527305
+    },
+    {
+      "IdDepartamento": "11",
+      "IdProvincia": "01",
+      "IdDistrito": "12",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -14.04654044,
+      "Longitud": -75.88277249
+    },
+    {
+      "IdDepartamento": "11",
+      "IdProvincia": "01",
+      "IdDistrito": "13",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -14.15155359,
+      "Longitud": -75.70325825
+    },
+    {
+      "IdDepartamento": "11",
+      "IdProvincia": "01",
+      "IdDistrito": "14",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -14.10068184,
+      "Longitud": -75.43415222
+    },
+    {
+      "IdDepartamento": "11",
+      "IdProvincia": "02",
+      "IdDistrito": "01",
+      "Total": 3,
+      "IdLocal": 0,
+      "Latitud": -13.32453395,
+      "Longitud": -76.03455428
+    },
+    {
+      "IdDepartamento": "11",
+      "IdProvincia": "02",
+      "IdDistrito": "02",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -13.35226381,
+      "Longitud": -75.87120502
+    },
+    {
+      "IdDepartamento": "11",
+      "IdProvincia": "02",
+      "IdDistrito": "03",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -13.12026253,
+      "Longitud": -75.94266723
+    },
+    {
+      "IdDepartamento": "11",
+      "IdProvincia": "02",
+      "IdDistrito": "05",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -13.5121982,
+      "Longitud": -75.91538257
+    },
+    {
+      "IdDepartamento": "11",
+      "IdProvincia": "02",
+      "IdDistrito": "06",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -13.31158673,
+      "Longitud": -76.16743293
+    },
+    {
+      "IdDepartamento": "11",
+      "IdProvincia": "02",
+      "IdDistrito": "07",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -13.21153922,
+      "Longitud": -76.03520589
+    },
+    {
+      "IdDepartamento": "11",
+      "IdProvincia": "02",
+      "IdDistrito": "08",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -13.22471401,
+      "Longitud": -75.81432059
+    },
+    {
+      "IdDepartamento": "11",
+      "IdProvincia": "02",
+      "IdDistrito": "09",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -13.09378751,
+      "Longitud": -75.76220389
+    },
+    {
+      "IdDepartamento": "11",
+      "IdProvincia": "02",
+      "IdDistrito": "10",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -13.42688986,
+      "Longitud": -76.16284275
+    },
+    {
+      "IdDepartamento": "11",
+      "IdProvincia": "02",
+      "IdDistrito": "11",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -13.46740242,
+      "Longitud": -76.18120474
+    },
+    {
+      "IdDepartamento": "11",
+      "IdProvincia": "03",
+      "IdDistrito": "01",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -14.85703486,
+      "Longitud": -75.03688595
+    },
+    {
+      "IdDepartamento": "11",
+      "IdProvincia": "03",
+      "IdDistrito": "02",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -14.80167117,
+      "Longitud": -75.33439615
+    },
+    {
+      "IdDepartamento": "11",
+      "IdProvincia": "03",
+      "IdDistrito": "03",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -14.67774596,
+      "Longitud": -75.00710638
+    },
+    {
+      "IdDepartamento": "11",
+      "IdProvincia": "03",
+      "IdDistrito": "04",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -15.14242205,
+      "Longitud": -75.06934349
+    },
+    {
+      "IdDepartamento": "11",
+      "IdProvincia": "03",
+      "IdDistrito": "05",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -14.92846616,
+      "Longitud": -74.82800584
+    },
+    {
+      "IdDepartamento": "11",
+      "IdProvincia": "04",
+      "IdDistrito": "01",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -14.48973536,
+      "Longitud": -75.13157558
+    },
+    {
+      "IdDepartamento": "11",
+      "IdProvincia": "04",
+      "IdDistrito": "02",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -14.59466072,
+      "Longitud": -75.15872752
+    },
+    {
+      "IdDepartamento": "11",
+      "IdProvincia": "04",
+      "IdDistrito": "03",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -14.30196129,
+      "Longitud": -75.13919367
+    },
+    {
+      "IdDepartamento": "11",
+      "IdProvincia": "04",
+      "IdDistrito": "04",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -14.47119624,
+      "Longitud": -75.25769898
+    },
+    {
+      "IdDepartamento": "11",
+      "IdProvincia": "04",
+      "IdDistrito": "05",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -14.12823521,
+      "Longitud": -75.15023817
+    },
+    {
+      "IdDepartamento": "11",
+      "IdProvincia": "05",
+      "IdDistrito": "01",
+      "Total": 3,
+      "IdLocal": 0,
+      "Latitud": -13.69925615,
+      "Longitud": -76.1865981
+    },
+    {
+      "IdDepartamento": "11",
+      "IdProvincia": "05",
+      "IdDistrito": "02",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -13.55519135,
+      "Longitud": -75.61591071
+    },
+    {
+      "IdDepartamento": "11",
+      "IdProvincia": "05",
+      "IdDistrito": "03",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -13.74408443,
+      "Longitud": -75.81798549
+    },
+    {
+      "IdDepartamento": "11",
+      "IdProvincia": "05",
+      "IdDistrito": "04",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -13.64686011,
+      "Longitud": -76.01299676
+    },
+    {
+      "IdDepartamento": "11",
+      "IdProvincia": "05",
+      "IdDistrito": "05",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -14.04706311,
+      "Longitud": -76.15775284
+    },
+    {
+      "IdDepartamento": "11",
+      "IdProvincia": "05",
+      "IdDistrito": "06",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -13.80432601,
+      "Longitud": -76.10676404
+    },
+    {
+      "IdDepartamento": "11",
+      "IdProvincia": "05",
+      "IdDistrito": "07",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -13.64211605,
+      "Longitud": -76.14398675
+    },
+    {
+      "IdDepartamento": "11",
+      "IdProvincia": "05",
+      "IdDistrito": "08",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -13.72617167,
+      "Longitud": -76.11033519
+    },
+    {
+      "IdDepartamento": "12",
+      "IdProvincia": "01",
+      "IdDistrito": "01",
+      "Total": 4,
+      "IdLocal": 0,
+      "Latitud": -11.96692796,
+      "Longitud": -75.01896067
+    },
+    {
+      "IdDepartamento": "12",
+      "IdProvincia": "01",
+      "IdDistrito": "14",
+      "Total": 4,
+      "IdLocal": 0,
+      "Latitud": -11.95972009,
+      "Longitud": -75.15043486
+    },
+    {
+      "IdDepartamento": "12",
+      "IdProvincia": "01",
+      "IdDistrito": "17",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -11.96797553,
+      "Longitud": -75.24412038
+    },
+    {
+      "IdDepartamento": "12",
+      "IdProvincia": "01",
+      "IdDistrito": "21",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -12.13441004,
+      "Longitud": -75.22206656
+    },
+    {
+      "IdDepartamento": "12",
+      "IdProvincia": "01",
+      "IdDistrito": "25",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -12.04982096,
+      "Longitud": -75.25593451
+    },
+    {
+      "IdDepartamento": "12",
+      "IdProvincia": "01",
+      "IdDistrito": "29",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -11.98901207,
+      "Longitud": -75.23447828
+    },
+    {
+      "IdDepartamento": "12",
+      "IdProvincia": "01",
+      "IdDistrito": "30",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -11.93740981,
+      "Longitud": -75.28637397
+    },
+    {
+      "IdDepartamento": "12",
+      "IdProvincia": "01",
+      "IdDistrito": "33",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -12.11385935,
+      "Longitud": -75.13974342
+    },
+    {
+      "IdDepartamento": "12",
+      "IdProvincia": "01",
+      "IdDistrito": "34",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -12.01905766,
+      "Longitud": -75.287509
+    },
+    {
+      "IdDepartamento": "12",
+      "IdProvincia": "02",
+      "IdDistrito": "01",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -11.92077975,
+      "Longitud": -75.31779842
+    },
+    {
+      "IdDepartamento": "12",
+      "IdProvincia": "02",
+      "IdDistrito": "04",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -12.02454141,
+      "Longitud": -75.42733207
+    },
+    {
+      "IdDepartamento": "12",
+      "IdProvincia": "02",
+      "IdDistrito": "07",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -11.8387402,
+      "Longitud": -75.2817782
+    },
+    {
+      "IdDepartamento": "12",
+      "IdProvincia": "03",
+      "IdDistrito": "01",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -10.96008206,
+      "Longitud": -75.38185186
+    },
+    {
+      "IdDepartamento": "12",
+      "IdProvincia": "03",
+      "IdDistrito": "02",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -10.94028185,
+      "Longitud": -75.07595884
+    },
+    {
+      "IdDepartamento": "12",
+      "IdProvincia": "03",
+      "IdDistrito": "03",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -11.02502977,
+      "Longitud": -74.86876506
+    },
+    {
+      "IdDepartamento": "12",
+      "IdProvincia": "03",
+      "IdDistrito": "05",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -11.15680082,
+      "Longitud": -75.40508936
+    },
+    {
+      "IdDepartamento": "12",
+      "IdProvincia": "04",
+      "IdDistrito": "01",
+      "Total": 3,
+      "IdLocal": 0,
+      "Latitud": -11.77408544,
+      "Longitud": -75.49113753
+    },
+    {
+      "IdDepartamento": "12",
+      "IdProvincia": "04",
+      "IdDistrito": "30",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -11.79265326,
+      "Longitud": -75.48329109
+    },
+    {
+      "IdDepartamento": "12",
+      "IdProvincia": "04",
+      "IdDistrito": "34",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -11.78905855,
+      "Longitud": -75.51858499
+    },
+    {
+      "IdDepartamento": "12",
+      "IdProvincia": "05",
+      "IdDistrito": "01",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -11.23390769,
+      "Longitud": -76.03679661
+    },
+    {
+      "IdDepartamento": "12",
+      "IdProvincia": "05",
+      "IdDistrito": "02",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -10.91393361,
+      "Longitud": -76.02098799
+    },
+    {
+      "IdDepartamento": "12",
+      "IdProvincia": "05",
+      "IdDistrito": "03",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -11.09141657,
+      "Longitud": -76.1819948
+    },
+    {
+      "IdDepartamento": "12",
+      "IdProvincia": "05",
+      "IdDistrito": "04",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -10.90446737,
+      "Longitud": -75.68396401
+    },
+    {
+      "IdDepartamento": "12",
+      "IdProvincia": "06",
+      "IdDistrito": "01",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -11.13267646,
+      "Longitud": -74.51281758
+    },
+    {
+      "IdDepartamento": "12",
+      "IdProvincia": "06",
+      "IdDistrito": "06",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -11.76935662,
+      "Longitud": -74.32224737
+    },
+    {
+      "IdDepartamento": "12",
+      "IdProvincia": "07",
+      "IdDistrito": "01",
+      "Total": 3,
+      "IdLocal": 0,
+      "Latitud": -11.45555348,
+      "Longitud": -75.75877668
+    },
+    {
+      "IdDepartamento": "12",
+      "IdProvincia": "08",
+      "IdDistrito": "01",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -11.60527027,
+      "Longitud": -75.85668735
+    },
+    {
+      "IdDepartamento": "12",
+      "IdProvincia": "08",
+      "IdDistrito": "08",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -11.55760365,
+      "Longitud": -75.98645408
+    },
+    {
+      "IdDepartamento": "12",
+      "IdProvincia": "09",
+      "IdDistrito": "01",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -12.07092353,
+      "Longitud": -75.28606836
+    },
+    {
+      "IdDepartamento": "12",
+      "IdProvincia": "09",
+      "IdDistrito": "05",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -12.07962554,
+      "Longitud": -75.24876736
+    },
+    {
+      "IdDepartamento": "12",
+      "IdProvincia": "09",
+      "IdDistrito": "08",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -12.1140158,
+      "Longitud": -75.24585306
+    },
+    {
+      "IdDepartamento": "13",
+      "IdProvincia": "01",
+      "IdDistrito": "01",
+      "Total": 6,
+      "IdLocal": 0,
+      "Latitud": -8.11258909,
+      "Longitud": -79.0238781
+    },
+    {
+      "IdDepartamento": "13",
+      "IdProvincia": "01",
+      "IdDistrito": "02",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -8.0515581,
+      "Longitud": -78.99548982
+    },
+    {
+      "IdDepartamento": "13",
+      "IdProvincia": "01",
+      "IdDistrito": "03",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -8.08236703,
+      "Longitud": -79.02117027
+    },
+    {
+      "IdDepartamento": "13",
+      "IdProvincia": "01",
+      "IdDistrito": "04",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -7.99742657,
+      "Longitud": -79.13854817
+    },
+    {
+      "IdDepartamento": "13",
+      "IdProvincia": "01",
+      "IdDistrito": "05",
+      "Total": 4,
+      "IdLocal": 0,
+      "Latitud": -8.06334116,
+      "Longitud": -79.05565971
+    },
+    {
+      "IdDepartamento": "13",
+      "IdProvincia": "01",
+      "IdDistrito": "06",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -8.10526425,
+      "Longitud": -78.85509025
+    },
+    {
+      "IdDepartamento": "13",
+      "IdProvincia": "01",
+      "IdDistrito": "07",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -8.15917615,
+      "Longitud": -79.00011149
+    },
+    {
+      "IdDepartamento": "13",
+      "IdProvincia": "01",
+      "IdDistrito": "09",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -8.25359293,
+      "Longitud": -78.89940378
+    },
+    {
+      "IdDepartamento": "13",
+      "IdProvincia": "01",
+      "IdDistrito": "11",
+      "Total": 3,
+      "IdLocal": 0,
+      "Latitud": -8.13938956,
+      "Longitud": -79.04580294
+    },
+    {
+      "IdDepartamento": "13",
+      "IdProvincia": "02",
+      "IdDistrito": "01",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -7.6608988,
+      "Longitud": -79.08206819
+    },
+    {
+      "IdDepartamento": "13",
+      "IdProvincia": "02",
+      "IdDistrito": "02",
+      "Total": 3,
+      "IdLocal": 0,
+      "Latitud": -7.80497701,
+      "Longitud": -79.00822354
+    },
+    {
+      "IdDepartamento": "13",
+      "IdProvincia": "02",
+      "IdDistrito": "03",
+      "Total": 3,
+      "IdLocal": 0,
+      "Latitud": -7.79050065,
+      "Longitud": -79.22654671
+    },
+    {
+      "IdDepartamento": "13",
+      "IdProvincia": "02",
+      "IdDistrito": "05",
+      "Total": 4,
+      "IdLocal": 0,
+      "Latitud": -7.72873706,
+      "Longitud": -79.30216647
+    },
+    {
+      "IdDepartamento": "13",
+      "IdProvincia": "02",
+      "IdDistrito": "06",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -7.68684259,
+      "Longitud": -79.37155337
+    },
+    {
+      "IdDepartamento": "13",
+      "IdProvincia": "02",
+      "IdDistrito": "07",
+      "Total": 3,
+      "IdLocal": 0,
+      "Latitud": -7.92475331,
+      "Longitud": -79.21774002
+    },
+    {
+      "IdDepartamento": "13",
+      "IdProvincia": "02",
+      "IdDistrito": "08",
+      "Total": 3,
+      "IdLocal": 0,
+      "Latitud": -7.57668497,
+      "Longitud": -79.19494173
+    },
+    {
+      "IdDepartamento": "13",
+      "IdProvincia": "05",
+      "IdDistrito": "01",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -8.07476765,
+      "Longitud": -78.46196198
+    },
+    {
+      "IdDepartamento": "13",
+      "IdProvincia": "05",
+      "IdDistrito": "02",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -8.12034237,
+      "Longitud": -78.3807799
+    },
+    {
+      "IdDepartamento": "13",
+      "IdProvincia": "05",
+      "IdDistrito": "03",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -8.14657723,
+      "Longitud": -78.58201525
+    },
+    {
+      "IdDepartamento": "13",
+      "IdProvincia": "05",
+      "IdDistrito": "04",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -8.26159016,
+      "Longitud": -78.44053022
+    },
+    {
+      "IdDepartamento": "13",
+      "IdProvincia": "06",
+      "IdDistrito": "01",
+      "Total": 6,
+      "IdLocal": 0,
+      "Latitud": -7.84872761,
+      "Longitud": -78.58211044
+    },
+    {
+      "IdDepartamento": "13",
+      "IdProvincia": "09",
+      "IdDistrito": "01",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -7.82673346,
+      "Longitud": -78.04607923
+    },
+    {
+      "IdDepartamento": "13",
+      "IdProvincia": "09",
+      "IdDistrito": "04",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -7.84774122,
+      "Longitud": -77.95349568
+    },
+    {
+      "IdDepartamento": "13",
+      "IdProvincia": "10",
+      "IdDistrito": "01",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -8.34914028,
+      "Longitud": -78.24461234
+    },
+    {
+      "IdDepartamento": "13",
+      "IdProvincia": "10",
+      "IdDistrito": "02",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -8.16221799,
+      "Longitud": -78.06090611
+    },
+    {
+      "IdDepartamento": "13",
+      "IdProvincia": "10",
+      "IdDistrito": "03",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -8.01728183,
+      "Longitud": -78.06435595
+    },
+    {
+      "IdDepartamento": "13",
+      "IdProvincia": "10",
+      "IdDistrito": "04",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -8.12796551,
+      "Longitud": -77.98081149
+    },
+    {
+      "IdDepartamento": "13",
+      "IdProvincia": "10",
+      "IdDistrito": "05",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -8.14262756,
+      "Longitud": -77.94204848
+    },
+    {
+      "IdDepartamento": "13",
+      "IdProvincia": "10",
+      "IdDistrito": "06",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -8.01473867,
+      "Longitud": -78.25111322
+    },
+    {
+      "IdDepartamento": "13",
+      "IdProvincia": "10",
+      "IdDistrito": "07",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -8.22837822,
+      "Longitud": -78.08731474
+    },
+    {
+      "IdDepartamento": "13",
+      "IdProvincia": "10",
+      "IdDistrito": "08",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -8.03752258,
+      "Longitud": -77.8055003
+    },
+    {
+      "IdDepartamento": "14",
+      "IdProvincia": "01",
+      "IdDistrito": "01",
+      "Total": 5,
+      "IdLocal": 0,
+      "Latitud": -6.78003664,
+      "Longitud": -79.85880133
+    },
+    {
+      "IdDepartamento": "14",
+      "IdProvincia": "01",
+      "IdDistrito": "02",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -6.62686238,
+      "Longitud": -79.46456336
+    },
+    {
+      "IdDepartamento": "14",
+      "IdProvincia": "01",
+      "IdDistrito": "05",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -6.74014375,
+      "Longitud": -79.84312813
+    },
+    {
+      "IdDepartamento": "14",
+      "IdProvincia": "01",
+      "IdDistrito": "06",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -6.82357949,
+      "Longitud": -79.86091544
+    },
+    {
+      "IdDepartamento": "14",
+      "IdProvincia": "01",
+      "IdDistrito": "08",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -6.86573036,
+      "Longitud": -79.85748457
+    },
+    {
+      "IdDepartamento": "14",
+      "IdProvincia": "01",
+      "IdDistrito": "10",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -6.77963847,
+      "Longitud": -79.2768493
+    },
+    {
+      "IdDepartamento": "14",
+      "IdProvincia": "01",
+      "IdDistrito": "11",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -6.71639249,
+      "Longitud": -79.77257757
+    },
+    {
+      "IdDepartamento": "14",
+      "IdProvincia": "01",
+      "IdDistrito": "12",
+      "Total": 6,
+      "IdLocal": 0,
+      "Latitud": -6.80196128,
+      "Longitud": -79.90589279
+    },
+    {
+      "IdDepartamento": "14",
+      "IdProvincia": "01",
+      "IdDistrito": "13",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -6.86348244,
+      "Longitud": -79.79419288
+    },
+    {
+      "IdDepartamento": "14",
+      "IdProvincia": "01",
+      "IdDistrito": "15",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -6.88714216,
+      "Longitud": -79.63799659
+    },
+    {
+      "IdDepartamento": "14",
+      "IdProvincia": "01",
+      "IdDistrito": "17",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -6.7089312,
+      "Longitud": -79.58575429
+    },
+    {
+      "IdDepartamento": "14",
+      "IdProvincia": "01",
+      "IdDistrito": "18",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -6.78176216,
+      "Longitud": -79.75901692
+    },
+    {
+      "IdDepartamento": "14",
+      "IdProvincia": "01",
+      "IdDistrito": "19",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -6.79621602,
+      "Longitud": -79.52293543
+    },
+    {
+      "IdDepartamento": "14",
+      "IdProvincia": "01",
+      "IdDistrito": "20",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -6.77373246,
+      "Longitud": -79.69445053
+    },
+    {
+      "IdDepartamento": "14",
+      "IdProvincia": "02",
+      "IdDistrito": "01",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -6.63262279,
+      "Longitud": -79.77709174
+    },
+    {
+      "IdDepartamento": "14",
+      "IdProvincia": "03",
+      "IdDistrito": "01",
+      "Total": 6,
+      "IdLocal": 0,
+      "Latitud": -6.67396713,
+      "Longitud": -79.93289013
+    },
+    {
+      "IdDepartamento": "14",
+      "IdProvincia": "03",
+      "IdDistrito": "03",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -6.46959438,
+      "Longitud": -79.85336695
+    },
+    {
+      "IdDepartamento": "14",
+      "IdProvincia": "03",
+      "IdDistrito": "04",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -6.30087235,
+      "Longitud": -79.85599552
+    },
+    {
+      "IdDepartamento": "14",
+      "IdProvincia": "03",
+      "IdDistrito": "05",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -6.56281933,
+      "Longitud": -79.88751511
+    },
+    {
+      "IdDepartamento": "14",
+      "IdProvincia": "03",
+      "IdDistrito": "06",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -6.50615033,
+      "Longitud": -80.17900024
+    },
+    {
+      "IdDepartamento": "14",
+      "IdProvincia": "03",
+      "IdDistrito": "07",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -6.20728687,
+      "Longitud": -79.7608358
+    },
+    {
+      "IdDepartamento": "14",
+      "IdProvincia": "03",
+      "IdDistrito": "08",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -6.04759907,
+      "Longitud": -80.07156578
+    },
+    {
+      "IdDepartamento": "14",
+      "IdProvincia": "03",
+      "IdDistrito": "09",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -6.42752341,
+      "Longitud": -79.87245724
+    },
+    {
+      "IdDepartamento": "14",
+      "IdProvincia": "03",
+      "IdDistrito": "10",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -6.26996597,
+      "Longitud": -79.55493674
+    },
+    {
+      "IdDepartamento": "14",
+      "IdProvincia": "03",
+      "IdDistrito": "11",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -6.76605963,
+      "Longitud": -79.93691491
+    },
+    {
+      "IdDepartamento": "14",
+      "IdProvincia": "03",
+      "IdDistrito": "12",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -6.50330862,
+      "Longitud": -79.87627533
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "01",
+      "IdDistrito": "01",
+      "Total": 4,
+      "IdLocal": 0,
+      "Latitud": -12.05128079,
+      "Longitud": -77.06676084
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "01",
+      "IdDistrito": "02",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -11.7025685,
+      "Longitud": -77.09589014
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "01",
+      "IdDistrito": "03",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -12.03591611,
+      "Longitud": -76.89047722
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "01",
+      "IdDistrito": "04",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -12.144073,
+      "Longitud": -77.02087866
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "01",
+      "IdDistrito": "05",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -12.05913481,
+      "Longitud": -77.05061105
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "01",
+      "IdDistrito": "06",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -11.80742265,
+      "Longitud": -76.97295461
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "01",
+      "IdDistrito": "07",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -11.99164048,
+      "Longitud": -76.7669698
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "01",
+      "IdDistrito": "08",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -12.19264629,
+      "Longitud": -77.00598629
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "01",
+      "IdDistrito": "09",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -12.07654603,
+      "Longitud": -76.77745997
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "01",
+      "IdDistrito": "10",
+      "Total": 5,
+      "IdLocal": 0,
+      "Latitud": -11.92909986,
+      "Longitud": -77.03891613
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "01",
+      "IdDistrito": "11",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -12.04174364,
+      "Longitud": -76.99296294
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "01",
+      "IdDistrito": "12",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -11.98747634,
+      "Longitud": -77.04600849
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "01",
+      "IdDistrito": "13",
+      "Total": 3,
+      "IdLocal": 0,
+      "Latitud": -12.07808946,
+      "Longitud": -77.04824206
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "01",
+      "IdDistrito": "14",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -12.08799934,
+      "Longitud": -76.92589845
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "01",
+      "IdDistrito": "16",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -12.08457152,
+      "Longitud": -77.03574886
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "01",
+      "IdDistrito": "18",
+      "Total": 4,
+      "IdLocal": 0,
+      "Latitud": -11.95859612,
+      "Longitud": -76.80155574
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "01",
+      "IdDistrito": "19",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -12.23434835,
+      "Longitud": -76.80155727
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "01",
+      "IdDistrito": "20",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -12.09457817,
+      "Longitud": -77.0670148
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "01",
+      "IdDistrito": "21",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -12.07507921,
+      "Longitud": -77.0657884
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "01",
+      "IdDistrito": "22",
+      "Total": 3,
+      "IdLocal": 0,
+      "Latitud": -12.11688953,
+      "Longitud": -77.04271174
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "01",
+      "IdDistrito": "23",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -12.17972742,
+      "Longitud": -76.84952342
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "01",
+      "IdDistrito": "24",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -12.46614775,
+      "Longitud": -76.77575281
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "01",
+      "IdDistrito": "25",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -11.88080788,
+      "Longitud": -77.07007754
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "01",
+      "IdDistrito": "26",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -12.27526386,
+      "Longitud": -76.74460993
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "01",
+      "IdDistrito": "27",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -12.30362425,
+      "Longitud": -76.70943138
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "01",
+      "IdDistrito": "28",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -12.02359616,
+      "Longitud": -77.03264326
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "01",
+      "IdDistrito": "29",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -12.36938189,
+      "Longitud": -76.72414426
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "01",
+      "IdDistrito": "30",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -12.0975356,
+      "Longitud": -76.99526273
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "01",
+      "IdDistrito": "31",
+      "Total": 3,
+      "IdLocal": 0,
+      "Latitud": -12.09900105,
+      "Longitud": -77.03677239
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "01",
+      "IdDistrito": "32",
+      "Total": 7,
+      "IdLocal": 0,
+      "Latitud": -11.97282517,
+      "Longitud": -76.99687261
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "01",
+      "IdDistrito": "33",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -12.15782036,
+      "Longitud": -76.96652384
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "01",
+      "IdDistrito": "34",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -12.07650057,
+      "Longitud": -76.9987879
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "01",
+      "IdDistrito": "35",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -12.02203161,
+      "Longitud": -77.06473499
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "01",
+      "IdDistrito": "36",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -12.07659875,
+      "Longitud": -77.09008964
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "01",
+      "IdDistrito": "37",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -12.04323558,
+      "Longitud": -76.96325301
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "01",
+      "IdDistrito": "40",
+      "Total": 6,
+      "IdLocal": 0,
+      "Latitud": -12.12722618,
+      "Longitud": -76.98451881
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "01",
+      "IdDistrito": "41",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -12.11340136,
+      "Longitud": -77.01298959
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "01",
+      "IdDistrito": "42",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -12.21917489,
+      "Longitud": -76.94544131
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "01",
+      "IdDistrito": "43",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -12.17030367,
+      "Longitud": -76.91899703
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "02",
+      "IdDistrito": "01",
+      "Total": 5,
+      "IdLocal": 0,
+      "Latitud": -10.714926,
+      "Longitud": -77.68269231
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "02",
+      "IdDistrito": "02",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -10.48644965,
+      "Longitud": -77.74216593
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "02",
+      "IdDistrito": "03",
+      "Total": 4,
+      "IdLocal": 0,
+      "Latitud": -10.6233603,
+      "Longitud": -77.6859585
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "02",
+      "IdDistrito": "04",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -10.82017849,
+      "Longitud": -77.5581618
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "02",
+      "IdDistrito": "05",
+      "Total": 4,
+      "IdLocal": 0,
+      "Latitud": -10.78524661,
+      "Longitud": -77.72568019
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "03",
+      "IdDistrito": "01",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -10.4551401,
+      "Longitud": -76.94383975
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "03",
+      "IdDistrito": "02",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -10.33073428,
+      "Longitud": -76.96247555
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "03",
+      "IdDistrito": "03",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -10.6216407,
+      "Longitud": -76.99191087
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "03",
+      "IdDistrito": "04",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -10.52169191,
+      "Longitud": -77.10893262
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "04",
+      "IdDistrito": "01",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -11.4753066,
+      "Longitud": -76.58229732
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "05",
+      "IdDistrito": "01",
+      "Total": 3,
+      "IdLocal": 0,
+      "Latitud": -13.17193988,
+      "Longitud": -76.25756491
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "05",
+      "IdDistrito": "05",
+      "Total": 11,
+      "IdLocal": 0,
+      "Latitud": -12.42981709,
+      "Longitud": -76.62994252
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "05",
+      "IdDistrito": "07",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -13.03310255,
+      "Longitud": -76.36961118
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "05",
+      "IdDistrito": "08",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -13.01933334,
+      "Longitud": -76.11738239
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "05",
+      "IdDistrito": "09",
+      "Total": 10,
+      "IdLocal": 0,
+      "Latitud": -12.65347463,
+      "Longitud": -76.60166711
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "05",
+      "IdDistrito": "13",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -12.61317162,
+      "Longitud": -76.67417966
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "06",
+      "IdDistrito": "01",
+      "Total": 5,
+      "IdLocal": 0,
+      "Latitud": -11.41651337,
+      "Longitud": -77.2376933
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "06",
+      "IdDistrito": "05",
+      "Total": 4,
+      "IdLocal": 0,
+      "Latitud": -11.44446835,
+      "Longitud": -77.33802752
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "07",
+      "IdDistrito": "01",
+      "Total": 3,
+      "IdLocal": 0,
+      "Latitud": -11.8161478,
+      "Longitud": -76.3794308
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "07",
+      "IdDistrito": "16",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -11.81664912,
+      "Longitud": -76.77355958
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "07",
+      "IdDistrito": "22",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -11.84322442,
+      "Longitud": -76.20475917
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "08",
+      "IdDistrito": "01",
+      "Total": 3,
+      "IdLocal": 0,
+      "Latitud": -11.27166065,
+      "Longitud": -77.49276783
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "08",
+      "IdDistrito": "03",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -11.08798085,
+      "Longitud": -77.62002251
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "08",
+      "IdDistrito": "05",
+      "Total": 5,
+      "IdLocal": 0,
+      "Latitud": -11.09277772,
+      "Longitud": -77.60695152
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "08",
+      "IdDistrito": "06",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -11.00359043,
+      "Longitud": -77.4452241
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "08",
+      "IdDistrito": "10",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -11.13382972,
+      "Longitud": -77.41245246
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "08",
+      "IdDistrito": "11",
+      "Total": 3,
+      "IdLocal": 0,
+      "Latitud": -11.14586363,
+      "Longitud": -77.23380384
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "08",
+      "IdDistrito": "12",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -10.95019229,
+      "Longitud": -77.60411629
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "09",
+      "IdDistrito": "01",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -10.66939884,
+      "Longitud": -76.75772188
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "09",
+      "IdDistrito": "02",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -10.77760315,
+      "Longitud": -76.92715016
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "09",
+      "IdDistrito": "06",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -10.83786436,
+      "Longitud": -76.79755387
+    },
+    {
+      "IdDepartamento": "15",
+      "IdProvincia": "10",
+      "IdDistrito": "01",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -12.47257331,
+      "Longitud": -75.9551075
+    },
+    {
+      "IdDepartamento": "16",
+      "IdProvincia": "01",
+      "IdDistrito": "01",
+      "Total": 4,
+      "IdLocal": 0,
+      "Latitud": -3.7822731,
+      "Longitud": -73.43263144
+    },
+    {
+      "IdDepartamento": "16",
+      "IdProvincia": "01",
+      "IdDistrito": "03",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -4.27912451,
+      "Longitud": -73.11481464
+    },
+    {
+      "IdDepartamento": "16",
+      "IdProvincia": "01",
+      "IdDistrito": "04",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -3.82915911,
+      "Longitud": -72.85633339
+    },
+    {
+      "IdDepartamento": "16",
+      "IdProvincia": "01",
+      "IdDistrito": "06",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -3.03334279,
+      "Longitud": -73.76115917
+    },
+    {
+      "IdDepartamento": "16",
+      "IdProvincia": "01",
+      "IdDistrito": "08",
+      "Total": 3,
+      "IdLocal": 0,
+      "Latitud": -3.53867544,
+      "Longitud": -73.4544453
+    },
+    {
+      "IdDepartamento": "16",
+      "IdProvincia": "01",
+      "IdDistrito": "12",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -3.70775314,
+      "Longitud": -73.13897661
+    },
+    {
+      "IdDepartamento": "16",
+      "IdProvincia": "01",
+      "IdDistrito": "13",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -4.30273494,
+      "Longitud": -73.69118655
+    },
+    {
+      "IdDepartamento": "16",
+      "IdProvincia": "02",
+      "IdDistrito": "01",
+      "Total": 4,
+      "IdLocal": 0,
+      "Latitud": -5.84587993,
+      "Longitud": -76.16158196
+    },
+    {
+      "IdDepartamento": "16",
+      "IdProvincia": "03",
+      "IdDistrito": "01",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -4.44271761,
+      "Longitud": -74.11420369
+    },
+    {
+      "IdDepartamento": "16",
+      "IdProvincia": "04",
+      "IdDistrito": "01",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -3.67749667,
+      "Longitud": -70.83613476
+    },
+    {
+      "IdDepartamento": "16",
+      "IdProvincia": "05",
+      "IdDistrito": "01",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -5.32824081,
+      "Longitud": -73.88234351
+    },
+    {
+      "IdDepartamento": "16",
+      "IdProvincia": "07",
+      "IdDistrito": "01",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -4.71446911,
+      "Longitud": -76.82937551
+    },
+    {
+      "IdDepartamento": "16",
+      "IdProvincia": "08",
+      "IdDistrito": "01",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -2.64564019,
+      "Longitud": -72.70808164
+    },
+    {
+      "IdDepartamento": "17",
+      "IdProvincia": "01",
+      "IdDistrito": "01",
+      "Total": 6,
+      "IdLocal": 0,
+      "Latitud": -12.04857992,
+      "Longitud": -70.28459175
+    },
+    {
+      "IdDepartamento": "17",
+      "IdProvincia": "01",
+      "IdDistrito": "02",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -12.97674434,
+      "Longitud": -69.93884485
+    },
+    {
+      "IdDepartamento": "17",
+      "IdProvincia": "01",
+      "IdDistrito": "03",
+      "Total": 3,
+      "IdLocal": 0,
+      "Latitud": -11.91039407,
+      "Longitud": -69.70082717
+    },
+    {
+      "IdDepartamento": "17",
+      "IdProvincia": "02",
+      "IdDistrito": "01",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -12.36200326,
+      "Longitud": -71.51836679
+    },
+    {
+      "IdDepartamento": "17",
+      "IdProvincia": "02",
+      "IdDistrito": "03",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -12.62954181,
+      "Longitud": -70.67535247
+    },
+    {
+      "IdDepartamento": "17",
+      "IdProvincia": "02",
+      "IdDistrito": "04",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -12.98605345,
+      "Longitud": -70.51298729
+    },
+    {
+      "IdDepartamento": "17",
+      "IdProvincia": "03",
+      "IdDistrito": "01",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -10.79472743,
+      "Longitud": -70.76091513
+    },
+    {
+      "IdDepartamento": "17",
+      "IdProvincia": "03",
+      "IdDistrito": "02",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -11.43509365,
+      "Longitud": -69.67927251
+    },
+    {
+      "IdDepartamento": "18",
+      "IdProvincia": "01",
+      "IdDistrito": "01",
+      "Total": 7,
+      "IdLocal": 0,
+      "Latitud": -17.22922117,
+      "Longitud": -71.06123727
+    },
+    {
+      "IdDepartamento": "18",
+      "IdProvincia": "01",
+      "IdDistrito": "02",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -16.72843058,
+      "Longitud": -70.37141556
+    },
+    {
+      "IdDepartamento": "18",
+      "IdProvincia": "01",
+      "IdDistrito": "03",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -16.76865367,
+      "Longitud": -70.66762862
+    },
+    {
+      "IdDepartamento": "18",
+      "IdProvincia": "01",
+      "IdDistrito": "04",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -17.15667845,
+      "Longitud": -70.85260041
+    },
+    {
+      "IdDepartamento": "18",
+      "IdProvincia": "01",
+      "IdDistrito": "05",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -16.66339733,
+      "Longitud": -70.64465329
+    },
+    {
+      "IdDepartamento": "18",
+      "IdProvincia": "01",
+      "IdDistrito": "06",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -16.99811904,
+      "Longitud": -70.73832134
+    },
+    {
+      "IdDepartamento": "18",
+      "IdProvincia": "02",
+      "IdDistrito": "01",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -16.64664733,
+      "Longitud": -70.96299546
+    },
+    {
+      "IdDepartamento": "18",
+      "IdProvincia": "02",
+      "IdDistrito": "02",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -16.45701962,
+      "Longitud": -70.57125182
+    },
+    {
+      "IdDepartamento": "18",
+      "IdProvincia": "02",
+      "IdDistrito": "03",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -16.57580647,
+      "Longitud": -71.04608882
+    },
+    {
+      "IdDepartamento": "18",
+      "IdProvincia": "02",
+      "IdDistrito": "04",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -16.18823079,
+      "Longitud": -70.49471811
+    },
+    {
+      "IdDepartamento": "18",
+      "IdProvincia": "02",
+      "IdDistrito": "05",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -16.84638467,
+      "Longitud": -71.30278467
+    },
+    {
+      "IdDepartamento": "18",
+      "IdProvincia": "02",
+      "IdDistrito": "06",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -16.30020731,
+      "Longitud": -70.57573854
+    },
+    {
+      "IdDepartamento": "18",
+      "IdProvincia": "02",
+      "IdDistrito": "07",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -16.5286762,
+      "Longitud": -70.83655617
+    },
+    {
+      "IdDepartamento": "18",
+      "IdProvincia": "02",
+      "IdDistrito": "08",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -16.62829492,
+      "Longitud": -71.15726834
+    },
+    {
+      "IdDepartamento": "18",
+      "IdProvincia": "02",
+      "IdDistrito": "09",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -16.70420529,
+      "Longitud": -70.87982401
+    },
+    {
+      "IdDepartamento": "18",
+      "IdProvincia": "02",
+      "IdDistrito": "10",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -16.21746147,
+      "Longitud": -70.80515689
+    },
+    {
+      "IdDepartamento": "18",
+      "IdProvincia": "02",
+      "IdDistrito": "11",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -16.22760855,
+      "Longitud": -70.66001627
+    },
+    {
+      "IdDepartamento": "18",
+      "IdProvincia": "03",
+      "IdDistrito": "01",
+      "Total": 7,
+      "IdLocal": 0,
+      "Latitud": -17.71412829,
+      "Longitud": -71.2169898
+    },
+    {
+      "IdDepartamento": "19",
+      "IdProvincia": "01",
+      "IdDistrito": "01",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -10.70116949,
+      "Longitud": -76.24658873
+    },
+    {
+      "IdDepartamento": "19",
+      "IdProvincia": "01",
+      "IdDistrito": "02",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -10.53947297,
+      "Longitud": -75.79620288
+    },
+    {
+      "IdDepartamento": "19",
+      "IdProvincia": "01",
+      "IdDistrito": "03",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -10.45177243,
+      "Longitud": -76.15411209
+    },
+    {
+      "IdDepartamento": "19",
+      "IdProvincia": "01",
+      "IdDistrito": "04",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -10.95197528,
+      "Longitud": -76.4254457
+    },
+    {
+      "IdDepartamento": "19",
+      "IdProvincia": "01",
+      "IdDistrito": "06",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -10.42215677,
+      "Longitud": -76.25146124
+    },
+    {
+      "IdDepartamento": "19",
+      "IdProvincia": "01",
+      "IdDistrito": "07",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -10.75889266,
+      "Longitud": -75.77342704
+    },
+    {
+      "IdDepartamento": "19",
+      "IdProvincia": "01",
+      "IdDistrito": "08",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -10.55271199,
+      "Longitud": -76.22831521
+    },
+    {
+      "IdDepartamento": "19",
+      "IdProvincia": "01",
+      "IdDistrito": "09",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -10.72652305,
+      "Longitud": -76.41679944
+    },
+    {
+      "IdDepartamento": "19",
+      "IdProvincia": "01",
+      "IdDistrito": "10",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -10.55370995,
+      "Longitud": -76.03383494
+    },
+    {
+      "IdDepartamento": "19",
+      "IdProvincia": "01",
+      "IdDistrito": "11",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -10.75191973,
+      "Longitud": -76.24577717
+    },
+    {
+      "IdDepartamento": "19",
+      "IdProvincia": "01",
+      "IdDistrito": "12",
+      "Total": 3,
+      "IdLocal": 0,
+      "Latitud": -10.86396826,
+      "Longitud": -76.23323279
+    },
+    {
+      "IdDepartamento": "19",
+      "IdProvincia": "01",
+      "IdDistrito": "13",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -10.64343238,
+      "Longitud": -76.19427757
+    },
+    {
+      "IdDepartamento": "19",
+      "IdProvincia": "02",
+      "IdDistrito": "01",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -10.56290519,
+      "Longitud": -76.57244654
+    },
+    {
+      "IdDepartamento": "19",
+      "IdProvincia": "02",
+      "IdDistrito": "02",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -10.55853444,
+      "Longitud": -76.38782067
+    },
+    {
+      "IdDepartamento": "19",
+      "IdProvincia": "02",
+      "IdDistrito": "03",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -10.48674724,
+      "Longitud": -76.40396211
+    },
+    {
+      "IdDepartamento": "19",
+      "IdProvincia": "02",
+      "IdDistrito": "04",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -10.35241298,
+      "Longitud": -76.45192208
+    },
+    {
+      "IdDepartamento": "19",
+      "IdProvincia": "02",
+      "IdDistrito": "05",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -10.41090237,
+      "Longitud": -76.54215149
+    },
+    {
+      "IdDepartamento": "19",
+      "IdProvincia": "02",
+      "IdDistrito": "06",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -10.47883133,
+      "Longitud": -76.3232547
+    },
+    {
+      "IdDepartamento": "19",
+      "IdProvincia": "02",
+      "IdDistrito": "07",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -10.41896009,
+      "Longitud": -76.46824569
+    },
+    {
+      "IdDepartamento": "19",
+      "IdProvincia": "02",
+      "IdDistrito": "08",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -10.53577457,
+      "Longitud": -76.44799217
+    },
+    {
+      "IdDepartamento": "19",
+      "IdProvincia": "03",
+      "IdDistrito": "01",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -10.6504221,
+      "Longitud": -75.37082114
+    },
+    {
+      "IdDepartamento": "19",
+      "IdProvincia": "03",
+      "IdDistrito": "02",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -10.64729679,
+      "Longitud": -75.46911024
+    },
+    {
+      "IdDepartamento": "19",
+      "IdProvincia": "03",
+      "IdDistrito": "03",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -10.39049305,
+      "Longitud": -75.6386674
+    },
+    {
+      "IdDepartamento": "19",
+      "IdProvincia": "03",
+      "IdDistrito": "04",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -10.23435894,
+      "Longitud": -75.27614119
+    },
+    {
+      "IdDepartamento": "19",
+      "IdProvincia": "03",
+      "IdDistrito": "05",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -10.13271851,
+      "Longitud": -75.58627194
+    },
+    {
+      "IdDepartamento": "19",
+      "IdProvincia": "03",
+      "IdDistrito": "06",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -10.41402809,
+      "Longitud": -74.63673294
+    },
+    {
+      "IdDepartamento": "19",
+      "IdProvincia": "03",
+      "IdDistrito": "07",
+      "Total": 3,
+      "IdLocal": 0,
+      "Latitud": -10.6341979,
+      "Longitud": -75.17591413
+    },
+    {
+      "IdDepartamento": "19",
+      "IdProvincia": "03",
+      "IdDistrito": "08",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -9.74103598,
+      "Longitud": -74.6359013
+    },
+    {
+      "IdDepartamento": "20",
+      "IdProvincia": "01",
+      "IdDistrito": "01",
+      "Total": 4,
+      "IdLocal": 0,
+      "Latitud": -5.08275338,
+      "Longitud": -80.66788196
+    },
+    {
+      "IdDepartamento": "20",
+      "IdProvincia": "01",
+      "IdDistrito": "04",
+      "Total": 3,
+      "IdLocal": 0,
+      "Latitud": -5.13095183,
+      "Longitud": -80.51518182
+    },
+    {
+      "IdDepartamento": "20",
+      "IdProvincia": "01",
+      "IdDistrito": "05",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -5.47051242,
+      "Longitud": -80.3651408
+    },
+    {
+      "IdDepartamento": "20",
+      "IdProvincia": "01",
+      "IdDistrito": "09",
+      "Total": 3,
+      "IdLocal": 0,
+      "Latitud": -5.27633825,
+      "Longitud": -80.79956998
+    },
+    {
+      "IdDepartamento": "20",
+      "IdProvincia": "01",
+      "IdDistrito": "10",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -5.33287313,
+      "Longitud": -80.86799754
+    },
+    {
+      "IdDepartamento": "20",
+      "IdProvincia": "01",
+      "IdDistrito": "11",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -4.64879392,
+      "Longitud": -80.20767158
+    },
+    {
+      "IdDepartamento": "20",
+      "IdProvincia": "01",
+      "IdDistrito": "14",
+      "Total": 3,
+      "IdLocal": 0,
+      "Latitud": -4.91945261,
+      "Longitud": -80.33095186
+    },
+    {
+      "IdDepartamento": "20",
+      "IdProvincia": "01",
+      "IdDistrito": "15",
+      "Total": 3,
+      "IdLocal": 0,
+      "Latitud": -5.14941926,
+      "Longitud": -80.70343511
+    },
+    {
+      "IdDepartamento": "20",
+      "IdProvincia": "02",
+      "IdDistrito": "01",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -4.68662618,
+      "Longitud": -79.6064797
+    },
+    {
+      "IdDepartamento": "20",
+      "IdProvincia": "03",
+      "IdDistrito": "01",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -5.19688581,
+      "Longitud": -79.49733115
+    },
+    {
+      "IdDepartamento": "20",
+      "IdProvincia": "03",
+      "IdDistrito": "03",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -5.02407798,
+      "Longitud": -79.36571819
+    },
+    {
+      "IdDepartamento": "20",
+      "IdProvincia": "03",
+      "IdDistrito": "08",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -5.39791478,
+      "Longitud": -79.46023378
+    },
+    {
+      "IdDepartamento": "20",
+      "IdProvincia": "04",
+      "IdDistrito": "01",
+      "Total": 8,
+      "IdLocal": 0,
+      "Latitud": -5.12169601,
+      "Longitud": -80.19440919
+    },
+    {
+      "IdDepartamento": "20",
+      "IdProvincia": "05",
+      "IdDistrito": "01",
+      "Total": 4,
+      "IdLocal": 0,
+      "Latitud": -5.16720017,
+      "Longitud": -81.05542082
+    },
+    {
+      "IdDepartamento": "20",
+      "IdProvincia": "06",
+      "IdDistrito": "01",
+      "Total": 26,
+      "IdLocal": 0,
+      "Latitud": -4.75579902,
+      "Longitud": -80.44478285
+    },
+    {
+      "IdDepartamento": "20",
+      "IdProvincia": "06",
+      "IdDistrito": "02",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -4.88971908,
+      "Longitud": -80.67427785
+    },
+    {
+      "IdDepartamento": "20",
+      "IdProvincia": "06",
+      "IdDistrito": "07",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -4.72609173,
+      "Longitud": -80.60426751
+    },
+    {
+      "IdDepartamento": "20",
+      "IdProvincia": "07",
+      "IdDistrito": "01",
+      "Total": 12,
+      "IdLocal": 0,
+      "Latitud": -4.49884876,
+      "Longitud": -81.04352953
+    },
+    {
+      "IdDepartamento": "20",
+      "IdProvincia": "07",
+      "IdDistrito": "02",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -4.29150873,
+      "Longitud": -81.08015053
+    },
+    {
+      "IdDepartamento": "21",
+      "IdProvincia": "01",
+      "IdDistrito": "01",
+      "Total": 10,
+      "IdLocal": 0,
+      "Latitud": -15.90500303,
+      "Longitud": -70.06367707
+    },
+    {
+      "IdDepartamento": "21",
+      "IdProvincia": "01",
+      "IdDistrito": "03",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -15.66454069,
+      "Longitud": -69.71066549
+    },
+    {
+      "IdDepartamento": "21",
+      "IdProvincia": "01",
+      "IdDistrito": "04",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -15.68220232,
+      "Longitud": -70.11631945
+    },
+    {
+      "IdDepartamento": "21",
+      "IdProvincia": "01",
+      "IdDistrito": "06",
+      "Total": 3,
+      "IdLocal": 0,
+      "Latitud": -15.93266951,
+      "Longitud": -69.91959166
+    },
+    {
+      "IdDepartamento": "21",
+      "IdProvincia": "01",
+      "IdDistrito": "07",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -15.56277253,
+      "Longitud": -69.97279139
+    },
+    {
+      "IdDepartamento": "21",
+      "IdProvincia": "01",
+      "IdDistrito": "08",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -15.62161829,
+      "Longitud": -69.99779894
+    },
+    {
+      "IdDepartamento": "21",
+      "IdProvincia": "01",
+      "IdDistrito": "09",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -15.82237626,
+      "Longitud": -70.3590427
+    },
+    {
+      "IdDepartamento": "21",
+      "IdProvincia": "01",
+      "IdDistrito": "10",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -15.72628839,
+      "Longitud": -70.06714578
+    },
+    {
+      "IdDepartamento": "21",
+      "IdProvincia": "01",
+      "IdDistrito": "11",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -16.23989561,
+      "Longitud": -70.15845929
+    },
+    {
+      "IdDepartamento": "21",
+      "IdProvincia": "01",
+      "IdDistrito": "12",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -16.01697927,
+      "Longitud": -69.90804767
+    },
+    {
+      "IdDepartamento": "21",
+      "IdProvincia": "01",
+      "IdDistrito": "13",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -16.08027615,
+      "Longitud": -70.30236042
+    },
+    {
+      "IdDepartamento": "21",
+      "IdProvincia": "01",
+      "IdDistrito": "14",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -15.94147424,
+      "Longitud": -70.28819936
+    },
+    {
+      "IdDepartamento": "21",
+      "IdProvincia": "01",
+      "IdDistrito": "15",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -15.78021675,
+      "Longitud": -70.2631558
+    },
+    {
+      "IdDepartamento": "21",
+      "IdProvincia": "02",
+      "IdDistrito": "01",
+      "Total": 5,
+      "IdLocal": 0,
+      "Latitud": -14.86137492,
+      "Longitud": -70.14355398
+    },
+    {
+      "IdDepartamento": "21",
+      "IdProvincia": "02",
+      "IdDistrito": "03",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -15.090044,
+      "Longitud": -70.08460964
+    },
+    {
+      "IdDepartamento": "21",
+      "IdProvincia": "02",
+      "IdDistrito": "04",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -14.74080646,
+      "Longitud": -70.35382212
+    },
+    {
+      "IdDepartamento": "21",
+      "IdProvincia": "02",
+      "IdDistrito": "06",
+      "Total": 3,
+      "IdLocal": 0,
+      "Latitud": -15.10627759,
+      "Longitud": -69.95196754
+    },
+    {
+      "IdDepartamento": "21",
+      "IdProvincia": "02",
+      "IdDistrito": "09",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -14.41643633,
+      "Longitud": -70.09218905
+    },
+    {
+      "IdDepartamento": "21",
+      "IdProvincia": "02",
+      "IdDistrito": "11",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -14.52262119,
+      "Longitud": -70.25669661
+    },
+    {
+      "IdDepartamento": "21",
+      "IdProvincia": "02",
+      "IdDistrito": "13",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -15.000797,
+      "Longitud": -70.12618908
+    },
+    {
+      "IdDepartamento": "21",
+      "IdProvincia": "03",
+      "IdDistrito": "01",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -14.05617661,
+      "Longitud": -70.47015278
+    },
+    {
+      "IdDepartamento": "21",
+      "IdProvincia": "03",
+      "IdDistrito": "02",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -14.17403615,
+      "Longitud": -70.2268919
+    },
+    {
+      "IdDepartamento": "21",
+      "IdProvincia": "03",
+      "IdDistrito": "03",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -13.63564098,
+      "Longitud": -70.23305254
+    },
+    {
+      "IdDepartamento": "21",
+      "IdProvincia": "03",
+      "IdDistrito": "04",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -13.91513701,
+      "Longitud": -69.92105973
+    },
+    {
+      "IdDepartamento": "21",
+      "IdProvincia": "03",
+      "IdDistrito": "07",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -13.82964152,
+      "Longitud": -70.11609447
+    },
+    {
+      "IdDepartamento": "21",
+      "IdProvincia": "03",
+      "IdDistrito": "08",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -13.74161434,
+      "Longitud": -70.54126219
+    },
+    {
+      "IdDepartamento": "21",
+      "IdProvincia": "03",
+      "IdDistrito": "09",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -13.52405164,
+      "Longitud": -70.39487063
+    },
+    {
+      "IdDepartamento": "21",
+      "IdProvincia": "05",
+      "IdDistrito": "01",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -16.24020841,
+      "Longitud": -69.67808561
+    },
+    {
+      "IdDepartamento": "21",
+      "IdProvincia": "05",
+      "IdDistrito": "02",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -17.10984906,
+      "Longitud": -69.70201668
+    },
+    {
+      "IdDepartamento": "21",
+      "IdProvincia": "05",
+      "IdDistrito": "03",
+      "Total": 9,
+      "IdLocal": 0,
+      "Latitud": -16.09582883,
+      "Longitud": -69.50862291
+    },
+    {
+      "IdDepartamento": "21",
+      "IdProvincia": "05",
+      "IdDistrito": "04",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -16.83579208,
+      "Longitud": -69.85519746
+    },
+    {
+      "IdDepartamento": "21",
+      "IdProvincia": "06",
+      "IdDistrito": "01",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -15.18320841,
+      "Longitud": -69.80902123
+    },
+    {
+      "IdDepartamento": "21",
+      "IdProvincia": "06",
+      "IdDistrito": "02",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -15.00817578,
+      "Longitud": -69.39317666
+    },
+    {
+      "IdDepartamento": "21",
+      "IdProvincia": "06",
+      "IdDistrito": "03",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -15.01893017,
+      "Longitud": -69.79961624
+    },
+    {
+      "IdDepartamento": "21",
+      "IdProvincia": "06",
+      "IdDistrito": "04",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -15.00086088,
+      "Longitud": -69.64460921
+    },
+    {
+      "IdDepartamento": "21",
+      "IdProvincia": "06",
+      "IdDistrito": "05",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -15.44091938,
+      "Longitud": -69.98966612
+    },
+    {
+      "IdDepartamento": "21",
+      "IdProvincia": "06",
+      "IdDistrito": "06",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -15.20951052,
+      "Longitud": -69.48742903
+    },
+    {
+      "IdDepartamento": "21",
+      "IdProvincia": "06",
+      "IdDistrito": "08",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -15.13800593,
+      "Longitud": -69.60950268
+    },
+    {
+      "IdDepartamento": "21",
+      "IdProvincia": "07",
+      "IdDistrito": "01",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -15.35598027,
+      "Longitud": -70.41090311
+    },
+    {
+      "IdDepartamento": "21",
+      "IdProvincia": "07",
+      "IdDistrito": "02",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -15.56937578,
+      "Longitud": -70.39008997
+    },
+    {
+      "IdDepartamento": "21",
+      "IdProvincia": "07",
+      "IdDistrito": "07",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -15.46754705,
+      "Longitud": -70.70475578
+    },
+    {
+      "IdDepartamento": "21",
+      "IdProvincia": "07",
+      "IdDistrito": "09",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -15.68061182,
+      "Longitud": -70.74578692
+    },
+    {
+      "IdDepartamento": "21",
+      "IdProvincia": "07",
+      "IdDistrito": "10",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -15.1749603,
+      "Longitud": -70.65034831
+    },
+    {
+      "IdDepartamento": "21",
+      "IdProvincia": "08",
+      "IdDistrito": "01",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -14.93155484,
+      "Longitud": -70.60575815
+    },
+    {
+      "IdDepartamento": "21",
+      "IdProvincia": "08",
+      "IdDistrito": "02",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -14.35464635,
+      "Longitud": -70.38414063
+    },
+    {
+      "IdDepartamento": "21",
+      "IdProvincia": "08",
+      "IdDistrito": "08",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -14.57433969,
+      "Longitud": -70.81201905
+    },
+    {
+      "IdDepartamento": "21",
+      "IdProvincia": "09",
+      "IdDistrito": "01",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -15.3508018,
+      "Longitud": -69.44760798
+    },
+    {
+      "IdDepartamento": "21",
+      "IdProvincia": "09",
+      "IdDistrito": "02",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -15.4493047,
+      "Longitud": -69.41204356
+    },
+    {
+      "IdDepartamento": "21",
+      "IdProvincia": "09",
+      "IdDistrito": "04",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -15.49167829,
+      "Longitud": -69.3420775
+    },
+    {
+      "IdDepartamento": "21",
+      "IdProvincia": "10",
+      "IdDistrito": "01",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -14.90096878,
+      "Longitud": -69.8580131
+    },
+    {
+      "IdDepartamento": "21",
+      "IdProvincia": "10",
+      "IdDistrito": "02",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -14.6924865,
+      "Longitud": -69.50498668
+    },
+    {
+      "IdDepartamento": "21",
+      "IdProvincia": "10",
+      "IdDistrito": "03",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -15.01838726,
+      "Longitud": -69.91425477
+    },
+    {
+      "IdDepartamento": "21",
+      "IdProvincia": "10",
+      "IdDistrito": "04",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -14.84696818,
+      "Longitud": -69.63931128
+    },
+    {
+      "IdDepartamento": "21",
+      "IdProvincia": "10",
+      "IdDistrito": "05",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -14.51144935,
+      "Longitud": -69.24002952
+    },
+    {
+      "IdDepartamento": "21",
+      "IdProvincia": "11",
+      "IdDistrito": "01",
+      "Total": 10,
+      "IdLocal": 0,
+      "Latitud": -15.45990184,
+      "Longitud": -70.21543553
+    },
+    {
+      "IdDepartamento": "21",
+      "IdProvincia": "12",
+      "IdDistrito": "03",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -13.64614129,
+      "Longitud": -69.59082398
+    },
+    {
+      "IdDepartamento": "21",
+      "IdProvincia": "12",
+      "IdDistrito": "06",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -14.46727349,
+      "Longitud": -69.35618992
+    },
+    {
+      "IdDepartamento": "21",
+      "IdProvincia": "13",
+      "IdDistrito": "01",
+      "Total": 10,
+      "IdLocal": 0,
+      "Latitud": -16.29339825,
+      "Longitud": -69.09612773
+    },
+    {
+      "IdDepartamento": "21",
+      "IdProvincia": "13",
+      "IdDistrito": "02",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -16.3253835,
+      "Longitud": -68.87882683
+    },
+    {
+      "IdDepartamento": "21",
+      "IdProvincia": "13",
+      "IdDistrito": "03",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -16.35927415,
+      "Longitud": -69.08411835
+    },
+    {
+      "IdDepartamento": "21",
+      "IdProvincia": "13",
+      "IdDistrito": "04",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -16.29308571,
+      "Longitud": -69.18056823
+    },
+    {
+      "IdDepartamento": "21",
+      "IdProvincia": "13",
+      "IdDistrito": "05",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -16.25290806,
+      "Longitud": -69.01570335
+    },
+    {
+      "IdDepartamento": "21",
+      "IdProvincia": "13",
+      "IdDistrito": "06",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -16.19796883,
+      "Longitud": -68.97151548
+    },
+    {
+      "IdDepartamento": "22",
+      "IdProvincia": "01",
+      "IdDistrito": "01",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -5.76832541,
+      "Longitud": -77.1699048
+    },
+    {
+      "IdDepartamento": "22",
+      "IdProvincia": "01",
+      "IdDistrito": "05",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -6.27274273,
+      "Longitud": -77.0541425
+    },
+    {
+      "IdDepartamento": "22",
+      "IdProvincia": "02",
+      "IdDistrito": "01",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -6.99102391,
+      "Longitud": -76.60060811
+    },
+    {
+      "IdDepartamento": "22",
+      "IdProvincia": "03",
+      "IdDistrito": "01",
+      "Total": 4,
+      "IdLocal": 0,
+      "Latitud": -6.62303038,
+      "Longitud": -76.71924674
+    },
+    {
+      "IdDepartamento": "22",
+      "IdProvincia": "03",
+      "IdDistrito": "04",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -6.70534565,
+      "Longitud": -76.59921852
+    },
+    {
+      "IdDepartamento": "22",
+      "IdProvincia": "04",
+      "IdDistrito": "01",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -6.8888385,
+      "Longitud": -76.87375396
+    },
+    {
+      "IdDepartamento": "22",
+      "IdProvincia": "05",
+      "IdDistrito": "01",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -6.39906025,
+      "Longitud": -76.52604198
+    },
+    {
+      "IdDepartamento": "22",
+      "IdProvincia": "06",
+      "IdDistrito": "01",
+      "Total": 3,
+      "IdLocal": 0,
+      "Latitud": -7.24481666,
+      "Longitud": -76.76800448
+    },
+    {
+      "IdDepartamento": "22",
+      "IdProvincia": "07",
+      "IdDistrito": "01",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -6.96450204,
+      "Longitud": -76.3315754
+    },
+    {
+      "IdDepartamento": "22",
+      "IdProvincia": "08",
+      "IdDistrito": "01",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -6.07868837,
+      "Longitud": -77.20989533
+    },
+    {
+      "IdDepartamento": "22",
+      "IdProvincia": "08",
+      "IdDistrito": "04",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -5.94435715,
+      "Longitud": -77.37224524
+    },
+    {
+      "IdDepartamento": "22",
+      "IdProvincia": "08",
+      "IdDistrito": "05",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -5.74870712,
+      "Longitud": -77.63414666
+    },
+    {
+      "IdDepartamento": "22",
+      "IdProvincia": "09",
+      "IdDistrito": "01",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -6.52443592,
+      "Longitud": -76.39062311
+    },
+    {
+      "IdDepartamento": "22",
+      "IdProvincia": "09",
+      "IdDistrito": "09",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -6.45708161,
+      "Longitud": -76.25574961
+    },
+    {
+      "IdDepartamento": "22",
+      "IdProvincia": "09",
+      "IdDistrito": "10",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -6.5161423,
+      "Longitud": -76.44030286
+    },
+    {
+      "IdDepartamento": "22",
+      "IdProvincia": "10",
+      "IdDistrito": "01",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -8.27741636,
+      "Longitud": -76.54623631
+    },
+    {
+      "IdDepartamento": "22",
+      "IdProvincia": "10",
+      "IdDistrito": "02",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -8.52564281,
+      "Longitud": -76.21253631
+    },
+    {
+      "IdDepartamento": "22",
+      "IdProvincia": "10",
+      "IdDistrito": "05",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -8.29478715,
+      "Longitud": -76.32922349
+    },
+    {
+      "IdDepartamento": "23",
+      "IdProvincia": "01",
+      "IdDistrito": "01",
+      "Total": 3,
+      "IdLocal": 0,
+      "Latitud": -18.23123068,
+      "Longitud": -70.19554492
+    },
+    {
+      "IdDepartamento": "23",
+      "IdProvincia": "01",
+      "IdDistrito": "02",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -17.83335609,
+      "Longitud": -70.27889592
+    },
+    {
+      "IdDepartamento": "23",
+      "IdProvincia": "01",
+      "IdDistrito": "08",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -18.01835441,
+      "Longitud": -70.07088479
+    },
+    {
+      "IdDepartamento": "23",
+      "IdProvincia": "01",
+      "IdDistrito": "10",
+      "Total": 3,
+      "IdLocal": 0,
+      "Latitud": -18.10766935,
+      "Longitud": -70.24094516
+    },
+    {
+      "IdDepartamento": "23",
+      "IdProvincia": "02",
+      "IdDistrito": "01",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -17.04193223,
+      "Longitud": -70.24785661
+    },
+    {
+      "IdDepartamento": "23",
+      "IdProvincia": "03",
+      "IdDistrito": "01",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -17.6042297,
+      "Longitud": -70.73305592
+    },
+    {
+      "IdDepartamento": "24",
+      "IdProvincia": "01",
+      "IdDistrito": "01",
+      "Total": 5,
+      "IdLocal": 0,
+      "Latitud": -3.55366065,
+      "Longitud": -80.41617273
+    },
+    {
+      "IdDepartamento": "24",
+      "IdProvincia": "01",
+      "IdDistrito": "02",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -3.59957712,
+      "Longitud": -80.50301348
+    },
+    {
+      "IdDepartamento": "24",
+      "IdProvincia": "01",
+      "IdDistrito": "03",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -3.67174512,
+      "Longitud": -80.56640107
+    },
+    {
+      "IdDepartamento": "24",
+      "IdProvincia": "01",
+      "IdDistrito": "06",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -3.64337181,
+      "Longitud": -80.37488868
+    },
+    {
+      "IdDepartamento": "24",
+      "IdProvincia": "03",
+      "IdDistrito": "01",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -3.46442767,
+      "Longitud": -80.30135817
+    },
+    {
+      "IdDepartamento": "24",
+      "IdProvincia": "03",
+      "IdDistrito": "02",
+      "Total": 4,
+      "IdLocal": 0,
+      "Latitud": -3.50925377,
+      "Longitud": -80.24371499
+    },
+    {
+      "IdDepartamento": "25",
+      "IdProvincia": "01",
+      "IdDistrito": "01",
+      "Total": 4,
+      "IdLocal": 0,
+      "Latitud": -7.9650521,
+      "Longitud": -74.16019127
+    },
+    {
+      "IdDepartamento": "25",
+      "IdProvincia": "01",
+      "IdDistrito": "05",
+      "Total": 3,
+      "IdLocal": 0,
+      "Latitud": -8.24848101,
+      "Longitud": -74.65669036
+    },
+    {
+      "IdDepartamento": "25",
+      "IdProvincia": "01",
+      "IdDistrito": "07",
+      "Total": 3,
+      "IdLocal": 0,
+      "Latitud": -8.53843086,
+      "Longitud": -74.50916388
+    },
+    {
+      "IdDepartamento": "07",
+      "IdProvincia": "01",
+      "IdDistrito": "07",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -11.85433852,
+      "Longitud": -77.12055592
+    },
+    {
+      "IdDepartamento": "10",
+      "IdProvincia": "06",
+      "IdDistrito": "07",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -8.41256736,
+      "Longitud": -76.00265221
+    },
+    {
+      "IdDepartamento": "10",
+      "IdProvincia": "06",
+      "IdDistrito": "08",
+      "Total": 2,
+      "IdLocal": 0,
+      "Latitud": -9.20771972,
+      "Longitud": -76.03849507
+    },
+    {
+      "IdDepartamento": "10",
+      "IdProvincia": "06",
+      "IdDistrito": "09",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -9.07710876,
+      "Longitud": -75.93227456
+    },
+    {
+      "IdDepartamento": "10",
+      "IdProvincia": "06",
+      "IdDistrito": "10",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -8.98489679,
+      "Longitud": -75.98296862
+    },
+    {
+      "IdDepartamento": "10",
+      "IdProvincia": "07",
+      "IdDistrito": "04",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -8.88044017,
+      "Longitud": -76.36344485
+    },
+    {
+      "IdDepartamento": "10",
+      "IdProvincia": "07",
+      "IdDistrito": "05",
+      "Total": 1,
+      "IdLocal": 0,
+      "Latitud": -8.78967676,
+      "Longitud": -76.5085787
+    }
+  ]
+}

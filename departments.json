@@ -1,0 +1,129 @@
+{
+  "Data": [
+    {
+      "IdDepartamento": "01",
+      "NombDep": "AMAZONAS",
+      "DisaCodigo": 0
+    },
+    {
+      "IdDepartamento": "02",
+      "NombDep": "ANCASH",
+      "DisaCodigo": 0
+    },
+    {
+      "IdDepartamento": "03",
+      "NombDep": "APURIMAC",
+      "DisaCodigo": 0
+    },
+    {
+      "IdDepartamento": "04",
+      "NombDep": "AREQUIPA",
+      "DisaCodigo": 0
+    },
+    {
+      "IdDepartamento": "05",
+      "NombDep": "AYACUCHO",
+      "DisaCodigo": 0
+    },
+    {
+      "IdDepartamento": "06",
+      "NombDep": "CAJAMARCA",
+      "DisaCodigo": 0
+    },
+    {
+      "IdDepartamento": "07",
+      "NombDep": "CALLAO",
+      "DisaCodigo": 0
+    },
+    {
+      "IdDepartamento": "08",
+      "NombDep": "CUSCO",
+      "DisaCodigo": 0
+    },
+    {
+      "IdDepartamento": "09",
+      "NombDep": "HUANCAVELICA",
+      "DisaCodigo": 0
+    },
+    {
+      "IdDepartamento": "10",
+      "NombDep": "HUANUCO",
+      "DisaCodigo": 0
+    },
+    {
+      "IdDepartamento": "11",
+      "NombDep": "ICA",
+      "DisaCodigo": 0
+    },
+    {
+      "IdDepartamento": "12",
+      "NombDep": "JUNIN",
+      "DisaCodigo": 0
+    },
+    {
+      "IdDepartamento": "13",
+      "NombDep": "LA LIBERTAD",
+      "DisaCodigo": 0
+    },
+    {
+      "IdDepartamento": "14",
+      "NombDep": "LAMBAYEQUE",
+      "DisaCodigo": 0
+    },
+    {
+      "IdDepartamento": "15",
+      "NombDep": "LIMA",
+      "DisaCodigo": 0
+    },
+    {
+      "IdDepartamento": "16",
+      "NombDep": "LORETO",
+      "DisaCodigo": 0
+    },
+    {
+      "IdDepartamento": "17",
+      "NombDep": "MADRE DE DIOS",
+      "DisaCodigo": 0
+    },
+    {
+      "IdDepartamento": "18",
+      "NombDep": "MOQUEGUA",
+      "DisaCodigo": 0
+    },
+    {
+      "IdDepartamento": "19",
+      "NombDep": "PASCO",
+      "DisaCodigo": 0
+    },
+    {
+      "IdDepartamento": "20",
+      "NombDep": "PIURA",
+      "DisaCodigo": 0
+    },
+    {
+      "IdDepartamento": "21",
+      "NombDep": "PUNO",
+      "DisaCodigo": 0
+    },
+    {
+      "IdDepartamento": "22",
+      "NombDep": "SAN MARTIN",
+      "DisaCodigo": 0
+    },
+    {
+      "IdDepartamento": "23",
+      "NombDep": "TACNA",
+      "DisaCodigo": 0
+    },
+    {
+      "IdDepartamento": "24",
+      "NombDep": "TUMBES",
+      "DisaCodigo": 0
+    },
+    {
+      "IdDepartamento": "25",
+      "NombDep": "UCAYALI",
+      "DisaCodigo": 0
+    }
+  ]
+}
